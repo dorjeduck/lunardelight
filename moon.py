@@ -81,7 +81,7 @@ illumination_degrees = lunar_helper.get_illumination_degree(moon_info['illuminat
 
 nasa_approx = lunar_helper.get_nasa_approx(illumination_degrees)
 
-nasa_png = 'nasa_imgs/moon.{:03d}.png'.format(nasa_approx["img_num"])
+nasa_png = 'nasa/moon.{:03d}.png'.format(nasa_approx["img_num"])
 
 
 if moon_info['position_angle']:

@@ -46,7 +46,7 @@ def process_image(input_path, output_path, scale_factor, rotation_angle, crop_wi
 
 
 # Ensure to create a folder to store the downloaded files and avoid clutter
-output_folder = 'nasa_imgs'
+output_folder = 'nasa'
 os.makedirs(output_folder, exist_ok=True)
 
 
