@@ -25,13 +25,27 @@ Ensure that you have Python 3 installed on your system. Follow the steps below t
    ```
 
 ## Usage
-Generate beautiful moon images and videos using simple command-line instructions.
+Generate beautiful moon images using simple command-line instructions.
 
-Example usage:
+Generate an image of the current moon phase:
 ```sh
 python moon.py
 ```
-... more usage instructions and examples to come.
+
+To explore various options and ways to specify the date for generating moon imagery, utilize the help command:
+
+```sh
+python moon.py -h
+```
+to see how to specify the date of the moon generated. When a location is given, the rotation of the moon will at seen ffrom the given location will be taken into account.
+
+When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. This feature enhances the realism and specificity of the generated imagery, providing a true-to-life celestial snapshot from the chosen locale.
+
+The following example generates an image of the moon a new year 2000 as it could be seen over London (latitude: 51.5072°, longitutde: -0.1276).
+
+```sh
+python moon.py --date 2000:01:01 -latlon 51.5,-0.13 
+```
 
 ## License
 LunarDelight is distributed under the MIT License. See `LICENSE` for more information.
