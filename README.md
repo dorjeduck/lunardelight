@@ -30,12 +30,6 @@ Generate an image of the current moon phase:
 python moon.py
 ```
 
-To explore various options and ways to specify the date for generating moon imagery, utilize the help command:
-
-```sh
-python moon.py -h
-```
-
 The script returns information about the moon at your specified time, encapsulating aspects like the moon phase, its distance from Earth, and the percentage of illumination. This information is returned in a structured JSON format, facilitating ease of data utilization and integration into various applications. Moreover, the JSON also includes the local path and filename corresponding to the dynamically generated image of the moon.
 
 Example JSON output:
@@ -49,6 +43,12 @@ Example JSON output:
   "json": "output/moon_2023-10-11_11:21:21.json",
   "image": "output/moon_2023-10-11_11:21:21.png"
 }
+```
+
+To explore various options and ways to specify the date for generating moon imagery, utilize the help command:
+
+```sh
+python moon.py -h
 ```
 
 When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
