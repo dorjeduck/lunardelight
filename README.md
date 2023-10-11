@@ -83,7 +83,6 @@ In this scenario, an image of the moon is generated as it could be observed from
   <img width="360" src="assets/moon_london_millennium.png">
 </p>
 
-
 ## License
 LunarDelight is distributed under the MIT License. See `LICENSE` for more information.
 
@@ -94,3 +93,16 @@ A heartfelt thank you to the following resources that make this project possible
 - Skyfield: [GitHub Repository](https://github.com/skyfielders/python-skyfield)
 
 Stay tuned for more updates and features in LunarDelight!
+
+## LunarDelight on Social Media
+
+LunarDelight is currently utilized by the following moon-phase-related social media accounts, where we share fascinating moon images, phases, and related content. Connect with us to stay updated with enchanting lunar visuals and insights:
+
+- [Instagram](https://instagram.com/lunardelight)
+- [Twitter](https://twitter.com/lunardelight)
+- [Facebook](https://www.facebook.com/lunardelight)
+- [Pinterest](https://www.pinterest.com/lunardelight/)
+- [LinkedIn](https://www.linkedin.com/showcase/lunar-delight---moon-phase-calendar/posts/?feedView=all)
+
+We invite you to follow, like, and share our celestial explorations across these platforms!
+
