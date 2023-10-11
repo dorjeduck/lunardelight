@@ -36,6 +36,21 @@ To explore various options and ways to specify the date for generating moon imag
 python moon.py -h
 ```
 
+The script returns information about the moon at your specified time, encapsulating aspects like the moon phase, its distance from Earth, and the percentage of illumination. This information is returned in a structured JSON format, facilitating ease of data utilization and integration into various applications. Moreover, the JSON also includes the local path and filename corresponding to the dynamically generated image of the moon.
+
+Example JSON output:
+
+```json
+{
+  "phase": 323.65,
+  "illumination": 9.86,
+  "distance": 404537,
+  "time": "2023-10-11_11:21:21",
+  "json": "output/moon_2023-10-11_11:21:21.json",
+  "image": "output/moon_2023-10-11_11:21:21.png"
+}
+```
+
 When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
 
 ### Example: Visualizing the Millennium Moon Over London
@@ -48,6 +63,19 @@ python moon.py --date 2000-01-01 --location "51.5,-0.13"
 
 In this scenario, we're illustrating the moon precisely as it could be observed from London (latitude: 51.5072°, longitude: -0.1276°) during the transition into the new millennium.
 
+```json
+{
+  "phase": 297.43,
+  "illumination": 27.17,
+  "distance": 400897,
+  "position_angle": 148.47,
+  "latitude": 51.5,
+  "longitude": -0.13,
+  "time": "2000-01-01_00:00:00",
+  "json": "output/moon_2000-01-01_00:00:00_51.500_-0.130.json",
+  "image": "output/moon_2000-01-01_00:00:00_51.500_-0.130.png"
+}
+```
 
 <p align="center">
   <img width="360" src="assets/moon_london_millennium.png">
