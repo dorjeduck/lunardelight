@@ -39,7 +39,7 @@ Example JSON output:
   "phase": 323.65,
   "illumination": 9.86,
   "distance": 404537,
-  "time": "2023-10-11_11:21:21",
+  "time": "2023-10-11 11:21:21 (UTC)",
   "json": "output/moon_2023-10-11_11:21:21.json",
   "image": "output/moon_2023-10-11_11:21:21.png"
 }
@@ -51,7 +51,7 @@ To explore various options and ways to specify the date for generating moon imag
 python moon.py -h
 ```
 
-When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
+Currently, LunarDelight accommodates time inputs exclusively in Coordinated Universal Time (UTC). When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
 
 ### Example: Visualizing the Millennium Moon Over London
 
@@ -71,7 +71,7 @@ In this scenario, an image of the moon is generated as it could be observed from
   "position_angle": 148.47,
   "latitude": 51.5,
   "longitude": -0.13,
-  "time": "2000-01-01_00:00:00",
+  "time": "2000-01-01 00:00:00 (UTC)",
   "json": "output/moon_2000-01-01_00:00:00_51.500_-0.130.json",
   "image": "output/moon_2000-01-01_00:00:00_51.500_-0.130.png"
 }

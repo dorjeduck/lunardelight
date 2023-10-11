@@ -9,7 +9,7 @@ import json
 
 parser = argparse.ArgumentParser(description='Create a moon image from a given date, time, and location.')
 parser.add_argument('-d', '--date', help='Date in format YYYY-mm-dd')
-parser.add_argument('-t', '--time', help='Time in format HH:MM:SS')
+parser.add_argument('-t', '--time', help='Time in format HH:MM:SS - according to UTC)')
 parser.add_argument('-l', '--location', help='Location in format "lat,lon"')
 parser.add_argument('-o', '--output', help='Output file name without extension (no slashes...)')
 
@@ -54,11 +54,12 @@ else:
         t += ts.utc(hour, minute, second)
 
 
-time_str =  t.utc_strftime('%Y-%m-%d_%H:%M:%S')
+
 
 os.makedirs('output', exist_ok=True)
  
 if not output:   
+    time_str =  t.utc_strftime('%Y-%m-%d_%H:%M:%S')
     output_name = os.path.join('output','moon_' + time_str)
 else:
     output_name = os.path.join('output',output)
@@ -97,7 +98,7 @@ else:
     shutil.copy(nasa_png,output_name + '.png')
     del moon_info['position_angle']
 
-moon_info['time'] = time_str
+moon_info['time'] = t.utc_strftime('%Y-%m-%d %H:%M:%S (UTC)')
 moon_info['phase'] = round(moon_info['phase'].degrees,2)
 moon_info['illumination'] = round(moon_info['illumination'],2)
 moon_info['distance'] = round(moon_info['distance'])
