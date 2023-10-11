@@ -61,7 +61,7 @@ Generate an image of the moon as it appeared over London during the very first m
 python moon.py --date 2000-01-01 --location "51.5,-0.13" 
 ```
 
-In this scenario, we're illustrating the moon precisely as it could be observed from London (latitude: 51.5072°, longitude: -0.1276°) during the transition into the new millennium.
+In this scenario, a moon image is generated as it could be observed from London (latitude: 51.5072°, longitude: -0.1276°) during the transition into the new millennium.
 
 ```json
 {
