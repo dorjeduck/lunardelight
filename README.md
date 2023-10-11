@@ -1,5 +1,5 @@
 
-# LunarDelight
+# Lunar Delight
 
 ## Description
 LunarDelight provides tools for creating moon-related images and videos (not yet) using Python. Explore and visualize the dance of the moon in various phases and perspectives through generated media.
