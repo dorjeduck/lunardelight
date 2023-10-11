@@ -50,6 +50,8 @@ python moon.py --date 2000-01-01 --location "51.5,-0.13"
 
 In this scenario, we're illustrating the moon precisely as it could be observed from London (latitude: 51.5072°, longitude: -0.1276°) during the transition into the new millennium.
 
+![London Millennium Moon](assets/moon_london_millennium.png)
+
 ## License
 LunarDelight is distributed under the MIT License. See `LICENSE` for more information.
 
