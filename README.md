@@ -51,7 +51,9 @@ To explore various options and ways to specify the date for generating moon imag
 python moon.py -h
 ```
 
-Currently, LunarDelight accommodates time inputs exclusively in Coordinated Universal Time (UTC). When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
+Currently, LunarDelight accommodates time inputs exclusively in Coordinated Universal Time (UTC).
+
+When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
 
 ### Example: Visualizing the Millennium Moon Over London
 
