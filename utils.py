@@ -2,7 +2,7 @@ import json
 import os
 
 from PIL import Image
-
+from datetime import datetime
 from skyfield.api import load, wgs84
 from skyfield.trigonometry import position_angle_of
 from skyfield import almanac

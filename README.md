@@ -37,15 +37,18 @@ To explore various options and ways to specify the date for generating moon imag
 ```sh
 python moon.py -h
 ```
-to see how to specify the date of the moon generated. When a location is given, the rotation of the moon will at seen ffrom the given location will be taken into account.
 
-When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. This feature enhances the realism and specificity of the generated imagery, providing a true-to-life celestial snapshot from the chosen locale.
+When you specify a location, LunarDelight ensures the moon's rotation is accurately depicted as it would appear from the given geographical point. 
 
-The following example generates an image of the moon a new year 2000 as it could be seen over London (latitude: 51.5072°, longitutde: -0.1276).
+### Example: Visualizing the Millennium Moon Over London
+
+Generate a striking image of the moon as it appeared over London during the very first moments of the year 2000 using the following example:
 
 ```sh
-python moon.py --date 2000:01:01 -latlon 51.5,-0.13 
+python moon.py --date 2000-01-01 --location "51.5,-0.13" 
 ```
+
+In this scenario, we're illustrating the moon precisely as it could be observed from London (latitude: 51.5072°, longitude: -0.1276°) during the transition into the new millennium.
 
 ## License
 LunarDelight is distributed under the MIT License. See `LICENSE` for more information.
