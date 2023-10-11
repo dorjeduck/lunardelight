@@ -1,0 +1,2830 @@
+[
+    {
+        "img_num": 1,
+        "illumination_degree": 0.0
+    },
+    {
+        "img_num": 2,
+        "illumination_degree": 0.02
+    },
+    {
+        "img_num": 3,
+        "illumination_degree": 0.04
+    },
+    {
+        "img_num": 4,
+        "illumination_degree": 0.05
+    },
+    {
+        "img_num": 5,
+        "illumination_degree": 0.09
+    },
+    {
+        "img_num": 6,
+        "illumination_degree": 0.13
+    },
+    {
+        "img_num": 7,
+        "illumination_degree": 0.18
+    },
+    {
+        "img_num": 8,
+        "illumination_degree": 0.23
+    },
+    {
+        "img_num": 9,
+        "illumination_degree": 0.31
+    },
+    {
+        "img_num": 10,
+        "illumination_degree": 0.38
+    },
+    {
+        "img_num": 11,
+        "illumination_degree": 0.45
+    },
+    {
+        "img_num": 12,
+        "illumination_degree": 0.54
+    },
+    {
+        "img_num": 13,
+        "illumination_degree": 0.63
+    },
+    {
+        "img_num": 14,
+        "illumination_degree": 0.74
+    },
+    {
+        "img_num": 15,
+        "illumination_degree": 0.85
+    },
+    {
+        "img_num": 16,
+        "illumination_degree": 0.95
+    },
+    {
+        "img_num": 17,
+        "illumination_degree": 1.08
+    },
+    {
+        "img_num": 18,
+        "illumination_degree": 1.22
+    },
+    {
+        "img_num": 19,
+        "illumination_degree": 1.35
+    },
+    {
+        "img_num": 20,
+        "illumination_degree": 1.51
+    },
+    {
+        "img_num": 21,
+        "illumination_degree": 1.66
+    },
+    {
+        "img_num": 22,
+        "illumination_degree": 1.82
+    },
+    {
+        "img_num": 23,
+        "illumination_degree": 1.98
+    },
+    {
+        "img_num": 24,
+        "illumination_degree": 2.16
+    },
+    {
+        "img_num": 25,
+        "illumination_degree": 2.34
+    },
+    {
+        "img_num": 26,
+        "illumination_degree": 2.54
+    },
+    {
+        "img_num": 27,
+        "illumination_degree": 2.74
+    },
+    {
+        "img_num": 28,
+        "illumination_degree": 2.93
+    },
+    {
+        "img_num": 29,
+        "illumination_degree": 3.15
+    },
+    {
+        "img_num": 30,
+        "illumination_degree": 3.37
+    },
+    {
+        "img_num": 31,
+        "illumination_degree": 3.58
+    },
+    {
+        "img_num": 32,
+        "illumination_degree": 3.82
+    },
+    {
+        "img_num": 33,
+        "illumination_degree": 4.07
+    },
+    {
+        "img_num": 34,
+        "illumination_degree": 4.3
+    },
+    {
+        "img_num": 35,
+        "illumination_degree": 4.55
+    },
+    {
+        "img_num": 36,
+        "illumination_degree": 4.82
+    },
+    {
+        "img_num": 37,
+        "illumination_degree": 5.08
+    },
+    {
+        "img_num": 38,
+        "illumination_degree": 5.35
+    },
+    {
+        "img_num": 39,
+        "illumination_degree": 5.63
+    },
+    {
+        "img_num": 40,
+        "illumination_degree": 5.92
+    },
+    {
+        "img_num": 41,
+        "illumination_degree": 6.21
+    },
+    {
+        "img_num": 42,
+        "illumination_degree": 6.5
+    },
+    {
+        "img_num": 43,
+        "illumination_degree": 6.8
+    },
+    {
+        "img_num": 44,
+        "illumination_degree": 7.13
+    },
+    {
+        "img_num": 45,
+        "illumination_degree": 7.44
+    },
+    {
+        "img_num": 46,
+        "illumination_degree": 7.76
+    },
+    {
+        "img_num": 47,
+        "illumination_degree": 8.08
+    },
+    {
+        "img_num": 48,
+        "illumination_degree": 8.43
+    },
+    {
+        "img_num": 49,
+        "illumination_degree": 8.77
+    },
+    {
+        "img_num": 50,
+        "illumination_degree": 9.11
+    },
+    {
+        "img_num": 51,
+        "illumination_degree": 9.47
+    },
+    {
+        "img_num": 52,
+        "illumination_degree": 9.83
+    },
+    {
+        "img_num": 53,
+        "illumination_degree": 10.19
+    },
+    {
+        "img_num": 54,
+        "illumination_degree": 10.57
+    },
+    {
+        "img_num": 55,
+        "illumination_degree": 10.93
+    },
+    {
+        "img_num": 56,
+        "illumination_degree": 11.32
+    },
+    {
+        "img_num": 57,
+        "illumination_degree": 11.7
+    },
+    {
+        "img_num": 58,
+        "illumination_degree": 12.1
+    },
+    {
+        "img_num": 59,
+        "illumination_degree": 12.49
+    },
+    {
+        "img_num": 60,
+        "illumination_degree": 12.91
+    },
+    {
+        "img_num": 61,
+        "illumination_degree": 13.3
+    },
+    {
+        "img_num": 62,
+        "illumination_degree": 13.74
+    },
+    {
+        "img_num": 63,
+        "illumination_degree": 14.15
+    },
+    {
+        "img_num": 64,
+        "illumination_degree": 14.58
+    },
+    {
+        "img_num": 65,
+        "illumination_degree": 15.0
+    },
+    {
+        "img_num": 66,
+        "illumination_degree": 15.45
+    },
+    {
+        "img_num": 67,
+        "illumination_degree": 15.88
+    },
+    {
+        "img_num": 68,
+        "illumination_degree": 16.33
+    },
+    {
+        "img_num": 69,
+        "illumination_degree": 16.78
+    },
+    {
+        "img_num": 70,
+        "illumination_degree": 17.23
+    },
+    {
+        "img_num": 71,
+        "illumination_degree": 17.7
+    },
+    {
+        "img_num": 72,
+        "illumination_degree": 18.16
+    },
+    {
+        "img_num": 73,
+        "illumination_degree": 18.63
+    },
+    {
+        "img_num": 74,
+        "illumination_degree": 19.1
+    },
+    {
+        "img_num": 75,
+        "illumination_degree": 19.59
+    },
+    {
+        "img_num": 76,
+        "illumination_degree": 20.07
+    },
+    {
+        "img_num": 77,
+        "illumination_degree": 20.56
+    },
+    {
+        "img_num": 78,
+        "illumination_degree": 21.06
+    },
+    {
+        "img_num": 79,
+        "illumination_degree": 21.55
+    },
+    {
+        "img_num": 80,
+        "illumination_degree": 22.05
+    },
+    {
+        "img_num": 81,
+        "illumination_degree": 22.56
+    },
+    {
+        "img_num": 82,
+        "illumination_degree": 23.08
+    },
+    {
+        "img_num": 83,
+        "illumination_degree": 23.58
+    },
+    {
+        "img_num": 84,
+        "illumination_degree": 24.11
+    },
+    {
+        "img_num": 85,
+        "illumination_degree": 24.63
+    },
+    {
+        "img_num": 86,
+        "illumination_degree": 25.17
+    },
+    {
+        "img_num": 87,
+        "illumination_degree": 25.69
+    },
+    {
+        "img_num": 88,
+        "illumination_degree": 26.23
+    },
+    {
+        "img_num": 89,
+        "illumination_degree": 26.77
+    },
+    {
+        "img_num": 90,
+        "illumination_degree": 27.31
+    },
+    {
+        "img_num": 91,
+        "illumination_degree": 27.87
+    },
+    {
+        "img_num": 92,
+        "illumination_degree": 28.43
+    },
+    {
+        "img_num": 93,
+        "illumination_degree": 28.97
+    },
+    {
+        "img_num": 94,
+        "illumination_degree": 29.54
+    },
+    {
+        "img_num": 95,
+        "illumination_degree": 30.1
+    },
+    {
+        "img_num": 96,
+        "illumination_degree": 30.66
+    },
+    {
+        "img_num": 97,
+        "illumination_degree": 31.23
+    },
+    {
+        "img_num": 98,
+        "illumination_degree": 31.81
+    },
+    {
+        "img_num": 99,
+        "illumination_degree": 32.39
+    },
+    {
+        "img_num": 100,
+        "illumination_degree": 32.96
+    },
+    {
+        "img_num": 101,
+        "illumination_degree": 33.56
+    },
+    {
+        "img_num": 102,
+        "illumination_degree": 34.13
+    },
+    {
+        "img_num": 103,
+        "illumination_degree": 34.73
+    },
+    {
+        "img_num": 104,
+        "illumination_degree": 35.32
+    },
+    {
+        "img_num": 105,
+        "illumination_degree": 35.91
+    },
+    {
+        "img_num": 106,
+        "illumination_degree": 36.51
+    },
+    {
+        "img_num": 107,
+        "illumination_degree": 37.12
+    },
+    {
+        "img_num": 108,
+        "illumination_degree": 37.73
+    },
+    {
+        "img_num": 109,
+        "illumination_degree": 38.33
+    },
+    {
+        "img_num": 110,
+        "illumination_degree": 38.94
+    },
+    {
+        "img_num": 111,
+        "illumination_degree": 39.57
+    },
+    {
+        "img_num": 112,
+        "illumination_degree": 40.18
+    },
+    {
+        "img_num": 113,
+        "illumination_degree": 40.79
+    },
+    {
+        "img_num": 114,
+        "illumination_degree": 41.42
+    },
+    {
+        "img_num": 115,
+        "illumination_degree": 42.05
+    },
+    {
+        "img_num": 116,
+        "illumination_degree": 42.68
+    },
+    {
+        "img_num": 117,
+        "illumination_degree": 43.31
+    },
+    {
+        "img_num": 118,
+        "illumination_degree": 43.94
+    },
+    {
+        "img_num": 119,
+        "illumination_degree": 44.57
+    },
+    {
+        "img_num": 120,
+        "illumination_degree": 45.22
+    },
+    {
+        "img_num": 121,
+        "illumination_degree": 45.85
+    },
+    {
+        "img_num": 122,
+        "illumination_degree": 46.5
+    },
+    {
+        "img_num": 123,
+        "illumination_degree": 47.15
+    },
+    {
+        "img_num": 124,
+        "illumination_degree": 47.8
+    },
+    {
+        "img_num": 125,
+        "illumination_degree": 48.44
+    },
+    {
+        "img_num": 126,
+        "illumination_degree": 49.09
+    },
+    {
+        "img_num": 127,
+        "illumination_degree": 49.76
+    },
+    {
+        "img_num": 128,
+        "illumination_degree": 50.41
+    },
+    {
+        "img_num": 129,
+        "illumination_degree": 51.07
+    },
+    {
+        "img_num": 130,
+        "illumination_degree": 51.72
+    },
+    {
+        "img_num": 131,
+        "illumination_degree": 52.39
+    },
+    {
+        "img_num": 132,
+        "illumination_degree": 53.05
+    },
+    {
+        "img_num": 133,
+        "illumination_degree": 53.72
+    },
+    {
+        "img_num": 134,
+        "illumination_degree": 54.39
+    },
+    {
+        "img_num": 135,
+        "illumination_degree": 55.07
+    },
+    {
+        "img_num": 136,
+        "illumination_degree": 55.74
+    },
+    {
+        "img_num": 137,
+        "illumination_degree": 56.4
+    },
+    {
+        "img_num": 138,
+        "illumination_degree": 57.09
+    },
+    {
+        "img_num": 139,
+        "illumination_degree": 57.77
+    },
+    {
+        "img_num": 140,
+        "illumination_degree": 58.44
+    },
+    {
+        "img_num": 141,
+        "illumination_degree": 59.12
+    },
+    {
+        "img_num": 142,
+        "illumination_degree": 59.8
+    },
+    {
+        "img_num": 143,
+        "illumination_degree": 60.49
+    },
+    {
+        "img_num": 144,
+        "illumination_degree": 61.17
+    },
+    {
+        "img_num": 145,
+        "illumination_degree": 61.86
+    },
+    {
+        "img_num": 146,
+        "illumination_degree": 62.54
+    },
+    {
+        "img_num": 147,
+        "illumination_degree": 63.22
+    },
+    {
+        "img_num": 148,
+        "illumination_degree": 63.93
+    },
+    {
+        "img_num": 149,
+        "illumination_degree": 64.61
+    },
+    {
+        "img_num": 150,
+        "illumination_degree": 65.31
+    },
+    {
+        "img_num": 151,
+        "illumination_degree": 66.0
+    },
+    {
+        "img_num": 152,
+        "illumination_degree": 66.7
+    },
+    {
+        "img_num": 153,
+        "illumination_degree": 67.38
+    },
+    {
+        "img_num": 154,
+        "illumination_degree": 68.09
+    },
+    {
+        "img_num": 155,
+        "illumination_degree": 68.79
+    },
+    {
+        "img_num": 156,
+        "illumination_degree": 69.49
+    },
+    {
+        "img_num": 157,
+        "illumination_degree": 70.19
+    },
+    {
+        "img_num": 158,
+        "illumination_degree": 70.89
+    },
+    {
+        "img_num": 159,
+        "illumination_degree": 71.6
+    },
+    {
+        "img_num": 160,
+        "illumination_degree": 72.3
+    },
+    {
+        "img_num": 161,
+        "illumination_degree": 73.0
+    },
+    {
+        "img_num": 162,
+        "illumination_degree": 73.7
+    },
+    {
+        "img_num": 163,
+        "illumination_degree": 74.4
+    },
+    {
+        "img_num": 164,
+        "illumination_degree": 75.11
+    },
+    {
+        "img_num": 165,
+        "illumination_degree": 75.81
+    },
+    {
+        "img_num": 166,
+        "illumination_degree": 76.53
+    },
+    {
+        "img_num": 167,
+        "illumination_degree": 77.23
+    },
+    {
+        "img_num": 168,
+        "illumination_degree": 77.93
+    },
+    {
+        "img_num": 169,
+        "illumination_degree": 78.65
+    },
+    {
+        "img_num": 170,
+        "illumination_degree": 79.36
+    },
+    {
+        "img_num": 171,
+        "illumination_degree": 80.06
+    },
+    {
+        "img_num": 172,
+        "illumination_degree": 80.78
+    },
+    {
+        "img_num": 173,
+        "illumination_degree": 81.48
+    },
+    {
+        "img_num": 174,
+        "illumination_degree": 82.2
+    },
+    {
+        "img_num": 175,
+        "illumination_degree": 82.9
+    },
+    {
+        "img_num": 176,
+        "illumination_degree": 83.62
+    },
+    {
+        "img_num": 177,
+        "illumination_degree": 84.32
+    },
+    {
+        "img_num": 178,
+        "illumination_degree": 85.04
+    },
+    {
+        "img_num": 179,
+        "illumination_degree": 85.75
+    },
+    {
+        "img_num": 180,
+        "illumination_degree": 86.47
+    },
+    {
+        "img_num": 181,
+        "illumination_degree": 87.17
+    },
+    {
+        "img_num": 182,
+        "illumination_degree": 87.89
+    },
+    {
+        "img_num": 183,
+        "illumination_degree": 88.59
+    },
+    {
+        "img_num": 184,
+        "illumination_degree": 89.31
+    },
+    {
+        "img_num": 185,
+        "illumination_degree": 90.01
+    },
+    {
+        "img_num": 186,
+        "illumination_degree": 90.73
+    },
+    {
+        "img_num": 187,
+        "illumination_degree": 91.43
+    },
+    {
+        "img_num": 188,
+        "illumination_degree": 92.15
+    },
+    {
+        "img_num": 189,
+        "illumination_degree": 92.86
+    },
+    {
+        "img_num": 190,
+        "illumination_degree": 93.58
+    },
+    {
+        "img_num": 191,
+        "illumination_degree": 94.28
+    },
+    {
+        "img_num": 192,
+        "illumination_degree": 95.0
+    },
+    {
+        "img_num": 193,
+        "illumination_degree": 95.7
+    },
+    {
+        "img_num": 194,
+        "illumination_degree": 96.42
+    },
+    {
+        "img_num": 195,
+        "illumination_degree": 97.12
+    },
+    {
+        "img_num": 196,
+        "illumination_degree": 97.83
+    },
+    {
+        "img_num": 197,
+        "illumination_degree": 98.55
+    },
+    {
+        "img_num": 198,
+        "illumination_degree": 99.25
+    },
+    {
+        "img_num": 199,
+        "illumination_degree": 99.95
+    },
+    {
+        "img_num": 200,
+        "illumination_degree": 100.65
+    },
+    {
+        "img_num": 201,
+        "illumination_degree": 101.37
+    },
+    {
+        "img_num": 202,
+        "illumination_degree": 102.07
+    },
+    {
+        "img_num": 203,
+        "illumination_degree": 102.78
+    },
+    {
+        "img_num": 204,
+        "illumination_degree": 103.48
+    },
+    {
+        "img_num": 205,
+        "illumination_degree": 104.18
+    },
+    {
+        "img_num": 206,
+        "illumination_degree": 104.88
+    },
+    {
+        "img_num": 207,
+        "illumination_degree": 105.58
+    },
+    {
+        "img_num": 208,
+        "illumination_degree": 106.29
+    },
+    {
+        "img_num": 209,
+        "illumination_degree": 106.99
+    },
+    {
+        "img_num": 210,
+        "illumination_degree": 107.69
+    },
+    {
+        "img_num": 211,
+        "illumination_degree": 108.38
+    },
+    {
+        "img_num": 212,
+        "illumination_degree": 109.08
+    },
+    {
+        "img_num": 213,
+        "illumination_degree": 109.78
+    },
+    {
+        "img_num": 214,
+        "illumination_degree": 110.46
+    },
+    {
+        "img_num": 215,
+        "illumination_degree": 111.17
+    },
+    {
+        "img_num": 216,
+        "illumination_degree": 111.85
+    },
+    {
+        "img_num": 217,
+        "illumination_degree": 112.55
+    },
+    {
+        "img_num": 218,
+        "illumination_degree": 113.24
+    },
+    {
+        "img_num": 219,
+        "illumination_degree": 113.92
+    },
+    {
+        "img_num": 220,
+        "illumination_degree": 114.6
+    },
+    {
+        "img_num": 221,
+        "illumination_degree": 115.29
+    },
+    {
+        "img_num": 222,
+        "illumination_degree": 115.97
+    },
+    {
+        "img_num": 223,
+        "illumination_degree": 116.66
+    },
+    {
+        "img_num": 224,
+        "illumination_degree": 117.34
+    },
+    {
+        "img_num": 225,
+        "illumination_degree": 118.02
+    },
+    {
+        "img_num": 226,
+        "illumination_degree": 118.71
+    },
+    {
+        "img_num": 227,
+        "illumination_degree": 119.37
+    },
+    {
+        "img_num": 228,
+        "illumination_degree": 120.06
+    },
+    {
+        "img_num": 229,
+        "illumination_degree": 120.72
+    },
+    {
+        "img_num": 230,
+        "illumination_degree": 121.41
+    },
+    {
+        "img_num": 231,
+        "illumination_degree": 122.07
+    },
+    {
+        "img_num": 232,
+        "illumination_degree": 122.74
+    },
+    {
+        "img_num": 233,
+        "illumination_degree": 123.41
+    },
+    {
+        "img_num": 234,
+        "illumination_degree": 124.07
+    },
+    {
+        "img_num": 235,
+        "illumination_degree": 124.74
+    },
+    {
+        "img_num": 236,
+        "illumination_degree": 125.41
+    },
+    {
+        "img_num": 237,
+        "illumination_degree": 126.07
+    },
+    {
+        "img_num": 238,
+        "illumination_degree": 126.72
+    },
+    {
+        "img_num": 239,
+        "illumination_degree": 127.39
+    },
+    {
+        "img_num": 240,
+        "illumination_degree": 128.03
+    },
+    {
+        "img_num": 241,
+        "illumination_degree": 128.68
+    },
+    {
+        "img_num": 242,
+        "illumination_degree": 129.33
+    },
+    {
+        "img_num": 243,
+        "illumination_degree": 129.98
+    },
+    {
+        "img_num": 244,
+        "illumination_degree": 130.63
+    },
+    {
+        "img_num": 245,
+        "illumination_degree": 131.27
+    },
+    {
+        "img_num": 246,
+        "illumination_degree": 131.9
+    },
+    {
+        "img_num": 247,
+        "illumination_degree": 132.55
+    },
+    {
+        "img_num": 248,
+        "illumination_degree": 133.18
+    },
+    {
+        "img_num": 249,
+        "illumination_degree": 133.81
+    },
+    {
+        "img_num": 250,
+        "illumination_degree": 134.46
+    },
+    {
+        "img_num": 251,
+        "illumination_degree": 135.07
+    },
+    {
+        "img_num": 252,
+        "illumination_degree": 135.7
+    },
+    {
+        "img_num": 253,
+        "illumination_degree": 136.33
+    },
+    {
+        "img_num": 254,
+        "illumination_degree": 136.95
+    },
+    {
+        "img_num": 255,
+        "illumination_degree": 137.58
+    },
+    {
+        "img_num": 256,
+        "illumination_degree": 138.19
+    },
+    {
+        "img_num": 257,
+        "illumination_degree": 138.8
+    },
+    {
+        "img_num": 258,
+        "illumination_degree": 139.41
+    },
+    {
+        "img_num": 259,
+        "illumination_degree": 140.02
+    },
+    {
+        "img_num": 260,
+        "illumination_degree": 140.64
+    },
+    {
+        "img_num": 261,
+        "illumination_degree": 141.23
+    },
+    {
+        "img_num": 262,
+        "illumination_degree": 141.82
+    },
+    {
+        "img_num": 263,
+        "illumination_degree": 142.42
+    },
+    {
+        "img_num": 264,
+        "illumination_degree": 143.01
+    },
+    {
+        "img_num": 265,
+        "illumination_degree": 143.61
+    },
+    {
+        "img_num": 266,
+        "illumination_degree": 144.2
+    },
+    {
+        "img_num": 267,
+        "illumination_degree": 144.78
+    },
+    {
+        "img_num": 268,
+        "illumination_degree": 145.37
+    },
+    {
+        "img_num": 269,
+        "illumination_degree": 145.95
+    },
+    {
+        "img_num": 270,
+        "illumination_degree": 146.52
+    },
+    {
+        "img_num": 271,
+        "illumination_degree": 147.08
+    },
+    {
+        "img_num": 272,
+        "illumination_degree": 147.66
+    },
+    {
+        "img_num": 273,
+        "illumination_degree": 148.21
+    },
+    {
+        "img_num": 274,
+        "illumination_degree": 148.77
+    },
+    {
+        "img_num": 275,
+        "illumination_degree": 149.33
+    },
+    {
+        "img_num": 276,
+        "illumination_degree": 149.89
+    },
+    {
+        "img_num": 277,
+        "illumination_degree": 150.45
+    },
+    {
+        "img_num": 278,
+        "illumination_degree": 150.99
+    },
+    {
+        "img_num": 279,
+        "illumination_degree": 151.53
+    },
+    {
+        "img_num": 280,
+        "illumination_degree": 152.07
+    },
+    {
+        "img_num": 281,
+        "illumination_degree": 152.61
+    },
+    {
+        "img_num": 282,
+        "illumination_degree": 153.15
+    },
+    {
+        "img_num": 283,
+        "illumination_degree": 153.67
+    },
+    {
+        "img_num": 284,
+        "illumination_degree": 154.19
+    },
+    {
+        "img_num": 285,
+        "illumination_degree": 154.71
+    },
+    {
+        "img_num": 286,
+        "illumination_degree": 155.24
+    },
+    {
+        "img_num": 287,
+        "illumination_degree": 155.74
+    },
+    {
+        "img_num": 288,
+        "illumination_degree": 156.26
+    },
+    {
+        "img_num": 289,
+        "illumination_degree": 156.77
+    },
+    {
+        "img_num": 290,
+        "illumination_degree": 157.27
+    },
+    {
+        "img_num": 291,
+        "illumination_degree": 157.76
+    },
+    {
+        "img_num": 292,
+        "illumination_degree": 158.26
+    },
+    {
+        "img_num": 293,
+        "illumination_degree": 158.75
+    },
+    {
+        "img_num": 294,
+        "illumination_degree": 159.23
+    },
+    {
+        "img_num": 295,
+        "illumination_degree": 159.7
+    },
+    {
+        "img_num": 296,
+        "illumination_degree": 160.19
+    },
+    {
+        "img_num": 297,
+        "illumination_degree": 160.65
+    },
+    {
+        "img_num": 298,
+        "illumination_degree": 161.12
+    },
+    {
+        "img_num": 299,
+        "illumination_degree": 161.57
+    },
+    {
+        "img_num": 300,
+        "illumination_degree": 162.04
+    },
+    {
+        "img_num": 301,
+        "illumination_degree": 162.49
+    },
+    {
+        "img_num": 302,
+        "illumination_degree": 162.94
+    },
+    {
+        "img_num": 303,
+        "illumination_degree": 163.37
+    },
+    {
+        "img_num": 304,
+        "illumination_degree": 163.82
+    },
+    {
+        "img_num": 305,
+        "illumination_degree": 164.25
+    },
+    {
+        "img_num": 306,
+        "illumination_degree": 164.67
+    },
+    {
+        "img_num": 307,
+        "illumination_degree": 165.1
+    },
+    {
+        "img_num": 308,
+        "illumination_degree": 165.51
+    },
+    {
+        "img_num": 309,
+        "illumination_degree": 165.93
+    },
+    {
+        "img_num": 310,
+        "illumination_degree": 166.34
+    },
+    {
+        "img_num": 311,
+        "illumination_degree": 166.74
+    },
+    {
+        "img_num": 312,
+        "illumination_degree": 167.14
+    },
+    {
+        "img_num": 313,
+        "illumination_degree": 167.53
+    },
+    {
+        "img_num": 314,
+        "illumination_degree": 167.93
+    },
+    {
+        "img_num": 315,
+        "illumination_degree": 168.31
+    },
+    {
+        "img_num": 316,
+        "illumination_degree": 168.68
+    },
+    {
+        "img_num": 317,
+        "illumination_degree": 169.06
+    },
+    {
+        "img_num": 318,
+        "illumination_degree": 169.42
+    },
+    {
+        "img_num": 319,
+        "illumination_degree": 169.78
+    },
+    {
+        "img_num": 320,
+        "illumination_degree": 170.14
+    },
+    {
+        "img_num": 321,
+        "illumination_degree": 170.48
+    },
+    {
+        "img_num": 322,
+        "illumination_degree": 170.83
+    },
+    {
+        "img_num": 323,
+        "illumination_degree": 171.17
+    },
+    {
+        "img_num": 324,
+        "illumination_degree": 171.51
+    },
+    {
+        "img_num": 325,
+        "illumination_degree": 171.83
+    },
+    {
+        "img_num": 326,
+        "illumination_degree": 172.16
+    },
+    {
+        "img_num": 327,
+        "illumination_degree": 172.46
+    },
+    {
+        "img_num": 328,
+        "illumination_degree": 172.77
+    },
+    {
+        "img_num": 329,
+        "illumination_degree": 173.08
+    },
+    {
+        "img_num": 330,
+        "illumination_degree": 173.38
+    },
+    {
+        "img_num": 331,
+        "illumination_degree": 173.67
+    },
+    {
+        "img_num": 332,
+        "illumination_degree": 173.96
+    },
+    {
+        "img_num": 333,
+        "illumination_degree": 174.25
+    },
+    {
+        "img_num": 334,
+        "illumination_degree": 174.52
+    },
+    {
+        "img_num": 335,
+        "illumination_degree": 174.79
+    },
+    {
+        "img_num": 336,
+        "illumination_degree": 175.04
+    },
+    {
+        "img_num": 337,
+        "illumination_degree": 175.29
+    },
+    {
+        "img_num": 338,
+        "illumination_degree": 175.54
+    },
+    {
+        "img_num": 339,
+        "illumination_degree": 175.79
+    },
+    {
+        "img_num": 340,
+        "illumination_degree": 176.03
+    },
+    {
+        "img_num": 341,
+        "illumination_degree": 176.24
+    },
+    {
+        "img_num": 342,
+        "illumination_degree": 176.48
+    },
+    {
+        "img_num": 343,
+        "illumination_degree": 176.69
+    },
+    {
+        "img_num": 344,
+        "illumination_degree": 176.91
+    },
+    {
+        "img_num": 345,
+        "illumination_degree": 177.11
+    },
+    {
+        "img_num": 346,
+        "illumination_degree": 177.31
+    },
+    {
+        "img_num": 347,
+        "illumination_degree": 177.49
+    },
+    {
+        "img_num": 348,
+        "illumination_degree": 177.68
+    },
+    {
+        "img_num": 349,
+        "illumination_degree": 177.86
+    },
+    {
+        "img_num": 350,
+        "illumination_degree": 178.03
+    },
+    {
+        "img_num": 351,
+        "illumination_degree": 178.19
+    },
+    {
+        "img_num": 352,
+        "illumination_degree": 178.35
+    },
+    {
+        "img_num": 353,
+        "illumination_degree": 178.49
+    },
+    {
+        "img_num": 354,
+        "illumination_degree": 178.64
+    },
+    {
+        "img_num": 355,
+        "illumination_degree": 178.78
+    },
+    {
+        "img_num": 356,
+        "illumination_degree": 178.91
+    },
+    {
+        "img_num": 357,
+        "illumination_degree": 179.03
+    },
+    {
+        "img_num": 358,
+        "illumination_degree": 179.14
+    },
+    {
+        "img_num": 359,
+        "illumination_degree": 179.25
+    },
+    {
+        "img_num": 360,
+        "illumination_degree": 179.36
+    },
+    {
+        "img_num": 361,
+        "illumination_degree": 179.45
+    },
+    {
+        "img_num": 362,
+        "illumination_degree": 179.54
+    },
+    {
+        "img_num": 363,
+        "illumination_degree": 179.61
+    },
+    {
+        "img_num": 364,
+        "illumination_degree": 179.68
+    },
+    {
+        "img_num": 365,
+        "illumination_degree": 179.75
+    },
+    {
+        "img_num": 366,
+        "illumination_degree": 179.81
+    },
+    {
+        "img_num": 367,
+        "illumination_degree": 179.86
+    },
+    {
+        "img_num": 368,
+        "illumination_degree": 179.9
+    },
+    {
+        "img_num": 369,
+        "illumination_degree": 179.93
+    },
+    {
+        "img_num": 370,
+        "illumination_degree": 179.97
+    },
+    {
+        "img_num": 371,
+        "illumination_degree": 179.98
+    },
+    {
+        "img_num": 372,
+        "illumination_degree": 179.99
+    },
+    {
+        "img_num": 373,
+        "illumination_degree": 180.0
+    },
+    {
+        "img_num": 374,
+        "illumination_degree": 180.01
+    },
+    {
+        "img_num": 375,
+        "illumination_degree": 180.02
+    },
+    {
+        "img_num": 376,
+        "illumination_degree": 180.06
+    },
+    {
+        "img_num": 377,
+        "illumination_degree": 180.08
+    },
+    {
+        "img_num": 378,
+        "illumination_degree": 180.12
+    },
+    {
+        "img_num": 379,
+        "illumination_degree": 180.15
+    },
+    {
+        "img_num": 380,
+        "illumination_degree": 180.21
+    },
+    {
+        "img_num": 381,
+        "illumination_degree": 180.26
+    },
+    {
+        "img_num": 382,
+        "illumination_degree": 180.31
+    },
+    {
+        "img_num": 383,
+        "illumination_degree": 180.39
+    },
+    {
+        "img_num": 384,
+        "illumination_degree": 180.46
+    },
+    {
+        "img_num": 385,
+        "illumination_degree": 180.55
+    },
+    {
+        "img_num": 386,
+        "illumination_degree": 180.64
+    },
+    {
+        "img_num": 387,
+        "illumination_degree": 180.75
+    },
+    {
+        "img_num": 388,
+        "illumination_degree": 180.85
+    },
+    {
+        "img_num": 389,
+        "illumination_degree": 180.96
+    },
+    {
+        "img_num": 390,
+        "illumination_degree": 181.09
+    },
+    {
+        "img_num": 391,
+        "illumination_degree": 181.21
+    },
+    {
+        "img_num": 392,
+        "illumination_degree": 181.36
+    },
+    {
+        "img_num": 393,
+        "illumination_degree": 181.5
+    },
+    {
+        "img_num": 394,
+        "illumination_degree": 181.65
+    },
+    {
+        "img_num": 395,
+        "illumination_degree": 181.81
+    },
+    {
+        "img_num": 396,
+        "illumination_degree": 181.97
+    },
+    {
+        "img_num": 397,
+        "illumination_degree": 182.15
+    },
+    {
+        "img_num": 398,
+        "illumination_degree": 182.33
+    },
+    {
+        "img_num": 399,
+        "illumination_degree": 182.53
+    },
+    {
+        "img_num": 400,
+        "illumination_degree": 182.73
+    },
+    {
+        "img_num": 401,
+        "illumination_degree": 182.94
+    },
+    {
+        "img_num": 402,
+        "illumination_degree": 183.16
+    },
+    {
+        "img_num": 403,
+        "illumination_degree": 183.37
+    },
+    {
+        "img_num": 404,
+        "illumination_degree": 183.61
+    },
+    {
+        "img_num": 405,
+        "illumination_degree": 183.84
+    },
+    {
+        "img_num": 406,
+        "illumination_degree": 184.09
+    },
+    {
+        "img_num": 407,
+        "illumination_degree": 184.35
+    },
+    {
+        "img_num": 408,
+        "illumination_degree": 184.6
+    },
+    {
+        "img_num": 409,
+        "illumination_degree": 184.87
+    },
+    {
+        "img_num": 410,
+        "illumination_degree": 185.14
+    },
+    {
+        "img_num": 411,
+        "illumination_degree": 185.43
+    },
+    {
+        "img_num": 412,
+        "illumination_degree": 185.71
+    },
+    {
+        "img_num": 413,
+        "illumination_degree": 186.02
+    },
+    {
+        "img_num": 414,
+        "illumination_degree": 186.33
+    },
+    {
+        "img_num": 415,
+        "illumination_degree": 186.65
+    },
+    {
+        "img_num": 416,
+        "illumination_degree": 186.96
+    },
+    {
+        "img_num": 417,
+        "illumination_degree": 187.3
+    },
+    {
+        "img_num": 418,
+        "illumination_degree": 187.64
+    },
+    {
+        "img_num": 419,
+        "illumination_degree": 187.98
+    },
+    {
+        "img_num": 420,
+        "illumination_degree": 188.32
+    },
+    {
+        "img_num": 421,
+        "illumination_degree": 188.68
+    },
+    {
+        "img_num": 422,
+        "illumination_degree": 189.06
+    },
+    {
+        "img_num": 423,
+        "illumination_degree": 189.42
+    },
+    {
+        "img_num": 424,
+        "illumination_degree": 189.82
+    },
+    {
+        "img_num": 425,
+        "illumination_degree": 190.2
+    },
+    {
+        "img_num": 426,
+        "illumination_degree": 190.59
+    },
+    {
+        "img_num": 427,
+        "illumination_degree": 191.01
+    },
+    {
+        "img_num": 428,
+        "illumination_degree": 191.42
+    },
+    {
+        "img_num": 429,
+        "illumination_degree": 191.83
+    },
+    {
+        "img_num": 430,
+        "illumination_degree": 192.25
+    },
+    {
+        "img_num": 431,
+        "illumination_degree": 192.68
+    },
+    {
+        "img_num": 432,
+        "illumination_degree": 193.13
+    },
+    {
+        "img_num": 433,
+        "illumination_degree": 193.58
+    },
+    {
+        "img_num": 434,
+        "illumination_degree": 194.03
+    },
+    {
+        "img_num": 435,
+        "illumination_degree": 194.5
+    },
+    {
+        "img_num": 436,
+        "illumination_degree": 194.97
+    },
+    {
+        "img_num": 437,
+        "illumination_degree": 195.44
+    },
+    {
+        "img_num": 438,
+        "illumination_degree": 195.92
+    },
+    {
+        "img_num": 439,
+        "illumination_degree": 196.41
+    },
+    {
+        "img_num": 440,
+        "illumination_degree": 196.91
+    },
+    {
+        "img_num": 441,
+        "illumination_degree": 197.42
+    },
+    {
+        "img_num": 442,
+        "illumination_degree": 197.92
+    },
+    {
+        "img_num": 443,
+        "illumination_degree": 198.44
+    },
+    {
+        "img_num": 444,
+        "illumination_degree": 198.96
+    },
+    {
+        "img_num": 445,
+        "illumination_degree": 199.49
+    },
+    {
+        "img_num": 446,
+        "illumination_degree": 200.03
+    },
+    {
+        "img_num": 447,
+        "illumination_degree": 200.57
+    },
+    {
+        "img_num": 448,
+        "illumination_degree": 201.12
+    },
+    {
+        "img_num": 449,
+        "illumination_degree": 201.68
+    },
+    {
+        "img_num": 450,
+        "illumination_degree": 202.24
+    },
+    {
+        "img_num": 451,
+        "illumination_degree": 202.8
+    },
+    {
+        "img_num": 452,
+        "illumination_degree": 203.37
+    },
+    {
+        "img_num": 453,
+        "illumination_degree": 203.97
+    },
+    {
+        "img_num": 454,
+        "illumination_degree": 204.54
+    },
+    {
+        "img_num": 455,
+        "illumination_degree": 205.14
+    },
+    {
+        "img_num": 456,
+        "illumination_degree": 205.75
+    },
+    {
+        "img_num": 457,
+        "illumination_degree": 206.34
+    },
+    {
+        "img_num": 458,
+        "illumination_degree": 206.96
+    },
+    {
+        "img_num": 459,
+        "illumination_degree": 207.59
+    },
+    {
+        "img_num": 460,
+        "illumination_degree": 208.2
+    },
+    {
+        "img_num": 461,
+        "illumination_degree": 208.83
+    },
+    {
+        "img_num": 462,
+        "illumination_degree": 209.48
+    },
+    {
+        "img_num": 463,
+        "illumination_degree": 210.11
+    },
+    {
+        "img_num": 464,
+        "illumination_degree": 210.76
+    },
+    {
+        "img_num": 465,
+        "illumination_degree": 211.4
+    },
+    {
+        "img_num": 466,
+        "illumination_degree": 212.07
+    },
+    {
+        "img_num": 467,
+        "illumination_degree": 212.74
+    },
+    {
+        "img_num": 468,
+        "illumination_degree": 213.4
+    },
+    {
+        "img_num": 469,
+        "illumination_degree": 214.09
+    },
+    {
+        "img_num": 470,
+        "illumination_degree": 214.75
+    },
+    {
+        "img_num": 471,
+        "illumination_degree": 215.44
+    },
+    {
+        "img_num": 472,
+        "illumination_degree": 216.14
+    },
+    {
+        "img_num": 473,
+        "illumination_degree": 216.82
+    },
+    {
+        "img_num": 474,
+        "illumination_degree": 217.52
+    },
+    {
+        "img_num": 475,
+        "illumination_degree": 218.23
+    },
+    {
+        "img_num": 476,
+        "illumination_degree": 218.95
+    },
+    {
+        "img_num": 477,
+        "illumination_degree": 219.67
+    },
+    {
+        "img_num": 478,
+        "illumination_degree": 220.39
+    },
+    {
+        "img_num": 479,
+        "illumination_degree": 221.11
+    },
+    {
+        "img_num": 480,
+        "illumination_degree": 221.83
+    },
+    {
+        "img_num": 481,
+        "illumination_degree": 222.56
+    },
+    {
+        "img_num": 482,
+        "illumination_degree": 223.3
+    },
+    {
+        "img_num": 483,
+        "illumination_degree": 224.04
+    },
+    {
+        "img_num": 484,
+        "illumination_degree": 224.8
+    },
+    {
+        "img_num": 485,
+        "illumination_degree": 225.55
+    },
+    {
+        "img_num": 486,
+        "illumination_degree": 226.29
+    },
+    {
+        "img_num": 487,
+        "illumination_degree": 227.07
+    },
+    {
+        "img_num": 488,
+        "illumination_degree": 227.82
+    },
+    {
+        "img_num": 489,
+        "illumination_degree": 228.6
+    },
+    {
+        "img_num": 490,
+        "illumination_degree": 229.37
+    },
+    {
+        "img_num": 491,
+        "illumination_degree": 230.14
+    },
+    {
+        "img_num": 492,
+        "illumination_degree": 230.92
+    },
+    {
+        "img_num": 493,
+        "illumination_degree": 231.69
+    },
+    {
+        "img_num": 494,
+        "illumination_degree": 232.48
+    },
+    {
+        "img_num": 495,
+        "illumination_degree": 233.28
+    },
+    {
+        "img_num": 496,
+        "illumination_degree": 234.07
+    },
+    {
+        "img_num": 497,
+        "illumination_degree": 234.86
+    },
+    {
+        "img_num": 498,
+        "illumination_degree": 235.67
+    },
+    {
+        "img_num": 499,
+        "illumination_degree": 236.46
+    },
+    {
+        "img_num": 500,
+        "illumination_degree": 237.27
+    },
+    {
+        "img_num": 501,
+        "illumination_degree": 238.08
+    },
+    {
+        "img_num": 502,
+        "illumination_degree": 238.89
+    },
+    {
+        "img_num": 503,
+        "illumination_degree": 239.7
+    },
+    {
+        "img_num": 504,
+        "illumination_degree": 240.53
+    },
+    {
+        "img_num": 505,
+        "illumination_degree": 241.34
+    },
+    {
+        "img_num": 506,
+        "illumination_degree": 242.17
+    },
+    {
+        "img_num": 507,
+        "illumination_degree": 243.0
+    },
+    {
+        "img_num": 508,
+        "illumination_degree": 243.83
+    },
+    {
+        "img_num": 509,
+        "illumination_degree": 244.65
+    },
+    {
+        "img_num": 510,
+        "illumination_degree": 245.48
+    },
+    {
+        "img_num": 511,
+        "illumination_degree": 246.33
+    },
+    {
+        "img_num": 512,
+        "illumination_degree": 247.16
+    },
+    {
+        "img_num": 513,
+        "illumination_degree": 248.0
+    },
+    {
+        "img_num": 514,
+        "illumination_degree": 248.83
+    },
+    {
+        "img_num": 515,
+        "illumination_degree": 249.68
+    },
+    {
+        "img_num": 516,
+        "illumination_degree": 250.52
+    },
+    {
+        "img_num": 517,
+        "illumination_degree": 251.37
+    },
+    {
+        "img_num": 518,
+        "illumination_degree": 252.22
+    },
+    {
+        "img_num": 519,
+        "illumination_degree": 253.08
+    },
+    {
+        "img_num": 520,
+        "illumination_degree": 253.93
+    },
+    {
+        "img_num": 521,
+        "illumination_degree": 254.77
+    },
+    {
+        "img_num": 522,
+        "illumination_degree": 255.64
+    },
+    {
+        "img_num": 523,
+        "illumination_degree": 256.48
+    },
+    {
+        "img_num": 524,
+        "illumination_degree": 257.35
+    },
+    {
+        "img_num": 525,
+        "illumination_degree": 258.19
+    },
+    {
+        "img_num": 526,
+        "illumination_degree": 259.06
+    },
+    {
+        "img_num": 527,
+        "illumination_degree": 259.92
+    },
+    {
+        "img_num": 528,
+        "illumination_degree": 260.78
+    },
+    {
+        "img_num": 529,
+        "illumination_degree": 261.63
+    },
+    {
+        "img_num": 530,
+        "illumination_degree": 262.49
+    },
+    {
+        "img_num": 531,
+        "illumination_degree": 263.36
+    },
+    {
+        "img_num": 532,
+        "illumination_degree": 264.22
+    },
+    {
+        "img_num": 533,
+        "illumination_degree": 265.09
+    },
+    {
+        "img_num": 534,
+        "illumination_degree": 265.95
+    },
+    {
+        "img_num": 535,
+        "illumination_degree": 266.82
+    },
+    {
+        "img_num": 536,
+        "illumination_degree": 267.68
+    },
+    {
+        "img_num": 537,
+        "illumination_degree": 268.54
+    },
+    {
+        "img_num": 538,
+        "illumination_degree": 269.41
+    },
+    {
+        "img_num": 539,
+        "illumination_degree": 270.27
+    },
+    {
+        "img_num": 540,
+        "illumination_degree": 271.14
+    },
+    {
+        "img_num": 541,
+        "illumination_degree": 272.0
+    },
+    {
+        "img_num": 542,
+        "illumination_degree": 272.86
+    },
+    {
+        "img_num": 543,
+        "illumination_degree": 273.73
+    },
+    {
+        "img_num": 544,
+        "illumination_degree": 274.59
+    },
+    {
+        "img_num": 545,
+        "illumination_degree": 275.46
+    },
+    {
+        "img_num": 546,
+        "illumination_degree": 276.32
+    },
+    {
+        "img_num": 547,
+        "illumination_degree": 277.17
+    },
+    {
+        "img_num": 548,
+        "illumination_degree": 278.03
+    },
+    {
+        "img_num": 549,
+        "illumination_degree": 278.89
+    },
+    {
+        "img_num": 550,
+        "illumination_degree": 279.76
+    },
+    {
+        "img_num": 551,
+        "illumination_degree": 280.6
+    },
+    {
+        "img_num": 552,
+        "illumination_degree": 281.47
+    },
+    {
+        "img_num": 553,
+        "illumination_degree": 282.32
+    },
+    {
+        "img_num": 554,
+        "illumination_degree": 283.16
+    },
+    {
+        "img_num": 555,
+        "illumination_degree": 284.03
+    },
+    {
+        "img_num": 556,
+        "illumination_degree": 284.87
+    },
+    {
+        "img_num": 557,
+        "illumination_degree": 285.72
+    },
+    {
+        "img_num": 558,
+        "illumination_degree": 286.56
+    },
+    {
+        "img_num": 559,
+        "illumination_degree": 287.41
+    },
+    {
+        "img_num": 560,
+        "illumination_degree": 288.26
+    },
+    {
+        "img_num": 561,
+        "illumination_degree": 289.1
+    },
+    {
+        "img_num": 562,
+        "illumination_degree": 289.93
+    },
+    {
+        "img_num": 563,
+        "illumination_degree": 290.78
+    },
+    {
+        "img_num": 564,
+        "illumination_degree": 291.6
+    },
+    {
+        "img_num": 565,
+        "illumination_degree": 292.45
+    },
+    {
+        "img_num": 566,
+        "illumination_degree": 293.28
+    },
+    {
+        "img_num": 567,
+        "illumination_degree": 294.11
+    },
+    {
+        "img_num": 568,
+        "illumination_degree": 294.93
+    },
+    {
+        "img_num": 569,
+        "illumination_degree": 295.76
+    },
+    {
+        "img_num": 570,
+        "illumination_degree": 296.57
+    },
+    {
+        "img_num": 571,
+        "illumination_degree": 297.4
+    },
+    {
+        "img_num": 572,
+        "illumination_degree": 298.21
+    },
+    {
+        "img_num": 573,
+        "illumination_degree": 299.02
+    },
+    {
+        "img_num": 574,
+        "illumination_degree": 299.83
+    },
+    {
+        "img_num": 575,
+        "illumination_degree": 300.64
+    },
+    {
+        "img_num": 576,
+        "illumination_degree": 301.45
+    },
+    {
+        "img_num": 577,
+        "illumination_degree": 302.24
+    },
+    {
+        "img_num": 578,
+        "illumination_degree": 303.05
+    },
+    {
+        "img_num": 579,
+        "illumination_degree": 303.85
+    },
+    {
+        "img_num": 580,
+        "illumination_degree": 304.64
+    },
+    {
+        "img_num": 581,
+        "illumination_degree": 305.41
+    },
+    {
+        "img_num": 582,
+        "illumination_degree": 306.2
+    },
+    {
+        "img_num": 583,
+        "illumination_degree": 306.98
+    },
+    {
+        "img_num": 584,
+        "illumination_degree": 307.77
+    },
+    {
+        "img_num": 585,
+        "illumination_degree": 308.54
+    },
+    {
+        "img_num": 586,
+        "illumination_degree": 309.3
+    },
+    {
+        "img_num": 587,
+        "illumination_degree": 310.08
+    },
+    {
+        "img_num": 588,
+        "illumination_degree": 310.83
+    },
+    {
+        "img_num": 589,
+        "illumination_degree": 311.61
+    },
+    {
+        "img_num": 590,
+        "illumination_degree": 312.34
+    },
+    {
+        "img_num": 591,
+        "illumination_degree": 313.1
+    },
+    {
+        "img_num": 592,
+        "illumination_degree": 313.86
+    },
+    {
+        "img_num": 593,
+        "illumination_degree": 314.59
+    },
+    {
+        "img_num": 594,
+        "illumination_degree": 315.33
+    },
+    {
+        "img_num": 595,
+        "illumination_degree": 316.07
+    },
+    {
+        "img_num": 596,
+        "illumination_degree": 316.79
+    },
+    {
+        "img_num": 597,
+        "illumination_degree": 317.51
+    },
+    {
+        "img_num": 598,
+        "illumination_degree": 318.23
+    },
+    {
+        "img_num": 599,
+        "illumination_degree": 318.95
+    },
+    {
+        "img_num": 600,
+        "illumination_degree": 319.67
+    },
+    {
+        "img_num": 601,
+        "illumination_degree": 320.37
+    },
+    {
+        "img_num": 602,
+        "illumination_degree": 321.07
+    },
+    {
+        "img_num": 603,
+        "illumination_degree": 321.78
+    },
+    {
+        "img_num": 604,
+        "illumination_degree": 322.46
+    },
+    {
+        "img_num": 605,
+        "illumination_degree": 323.14
+    },
+    {
+        "img_num": 606,
+        "illumination_degree": 323.83
+    },
+    {
+        "img_num": 607,
+        "illumination_degree": 324.51
+    },
+    {
+        "img_num": 608,
+        "illumination_degree": 325.18
+    },
+    {
+        "img_num": 609,
+        "illumination_degree": 325.85
+    },
+    {
+        "img_num": 610,
+        "illumination_degree": 326.51
+    },
+    {
+        "img_num": 611,
+        "illumination_degree": 327.16
+    },
+    {
+        "img_num": 612,
+        "illumination_degree": 327.83
+    },
+    {
+        "img_num": 613,
+        "illumination_degree": 328.46
+    },
+    {
+        "img_num": 614,
+        "illumination_degree": 329.1
+    },
+    {
+        "img_num": 615,
+        "illumination_degree": 329.73
+    },
+    {
+        "img_num": 616,
+        "illumination_degree": 330.36
+    },
+    {
+        "img_num": 617,
+        "illumination_degree": 330.99
+    },
+    {
+        "img_num": 618,
+        "illumination_degree": 331.61
+    },
+    {
+        "img_num": 619,
+        "illumination_degree": 332.22
+    },
+    {
+        "img_num": 620,
+        "illumination_degree": 332.83
+    },
+    {
+        "img_num": 621,
+        "illumination_degree": 333.42
+    },
+    {
+        "img_num": 622,
+        "illumination_degree": 334.02
+    },
+    {
+        "img_num": 623,
+        "illumination_degree": 334.61
+    },
+    {
+        "img_num": 624,
+        "illumination_degree": 335.19
+    },
+    {
+        "img_num": 625,
+        "illumination_degree": 335.76
+    },
+    {
+        "img_num": 626,
+        "illumination_degree": 336.34
+    },
+    {
+        "img_num": 627,
+        "illumination_degree": 336.9
+    },
+    {
+        "img_num": 628,
+        "illumination_degree": 337.46
+    },
+    {
+        "img_num": 629,
+        "illumination_degree": 338.01
+    },
+    {
+        "img_num": 630,
+        "illumination_degree": 338.56
+    },
+    {
+        "img_num": 631,
+        "illumination_degree": 339.1
+    },
+    {
+        "img_num": 632,
+        "illumination_degree": 339.64
+    },
+    {
+        "img_num": 633,
+        "illumination_degree": 340.16
+    },
+    {
+        "img_num": 634,
+        "illumination_degree": 340.68
+    },
+    {
+        "img_num": 635,
+        "illumination_degree": 341.2
+    },
+    {
+        "img_num": 636,
+        "illumination_degree": 341.71
+    },
+    {
+        "img_num": 637,
+        "illumination_degree": 342.21
+    },
+    {
+        "img_num": 638,
+        "illumination_degree": 342.71
+    },
+    {
+        "img_num": 639,
+        "illumination_degree": 343.2
+    },
+    {
+        "img_num": 640,
+        "illumination_degree": 343.69
+    },
+    {
+        "img_num": 641,
+        "illumination_degree": 344.15
+    },
+    {
+        "img_num": 642,
+        "illumination_degree": 344.62
+    },
+    {
+        "img_num": 643,
+        "illumination_degree": 345.09
+    },
+    {
+        "img_num": 644,
+        "illumination_degree": 345.54
+    },
+    {
+        "img_num": 645,
+        "illumination_degree": 345.99
+    },
+    {
+        "img_num": 646,
+        "illumination_degree": 346.44
+    },
+    {
+        "img_num": 647,
+        "illumination_degree": 346.87
+    },
+    {
+        "img_num": 648,
+        "illumination_degree": 347.3
+    },
+    {
+        "img_num": 649,
+        "illumination_degree": 347.72
+    },
+    {
+        "img_num": 650,
+        "illumination_degree": 348.13
+    },
+    {
+        "img_num": 651,
+        "illumination_degree": 348.55
+    },
+    {
+        "img_num": 652,
+        "illumination_degree": 348.94
+    },
+    {
+        "img_num": 653,
+        "illumination_degree": 349.34
+    },
+    {
+        "img_num": 654,
+        "illumination_degree": 349.72
+    },
+    {
+        "img_num": 655,
+        "illumination_degree": 350.09
+    },
+    {
+        "img_num": 656,
+        "illumination_degree": 350.47
+    },
+    {
+        "img_num": 657,
+        "illumination_degree": 350.85
+    },
+    {
+        "img_num": 658,
+        "illumination_degree": 351.19
+    },
+    {
+        "img_num": 659,
+        "illumination_degree": 351.55
+    },
+    {
+        "img_num": 660,
+        "illumination_degree": 351.89
+    },
+    {
+        "img_num": 661,
+        "illumination_degree": 352.24
+    },
+    {
+        "img_num": 662,
+        "illumination_degree": 352.56
+    },
+    {
+        "img_num": 663,
+        "illumination_degree": 352.89
+    },
+    {
+        "img_num": 664,
+        "illumination_degree": 353.21
+    },
+    {
+        "img_num": 665,
+        "illumination_degree": 353.52
+    },
+    {
+        "img_num": 666,
+        "illumination_degree": 353.82
+    },
+    {
+        "img_num": 667,
+        "illumination_degree": 354.11
+    },
+    {
+        "img_num": 668,
+        "illumination_degree": 354.4
+    },
+    {
+        "img_num": 669,
+        "illumination_degree": 354.69
+    },
+    {
+        "img_num": 670,
+        "illumination_degree": 354.96
+    },
+    {
+        "img_num": 671,
+        "illumination_degree": 355.23
+    },
+    {
+        "img_num": 672,
+        "illumination_degree": 355.48
+    },
+    {
+        "img_num": 673,
+        "illumination_degree": 355.73
+    },
+    {
+        "img_num": 674,
+        "illumination_degree": 355.98
+    },
+    {
+        "img_num": 675,
+        "illumination_degree": 356.22
+    },
+    {
+        "img_num": 676,
+        "illumination_degree": 356.45
+    },
+    {
+        "img_num": 677,
+        "illumination_degree": 356.67
+    },
+    {
+        "img_num": 678,
+        "illumination_degree": 356.88
+    },
+    {
+        "img_num": 679,
+        "illumination_degree": 357.1
+    },
+    {
+        "img_num": 680,
+        "illumination_degree": 357.3
+    },
+    {
+        "img_num": 681,
+        "illumination_degree": 357.48
+    },
+    {
+        "img_num": 682,
+        "illumination_degree": 357.67
+    },
+    {
+        "img_num": 683,
+        "illumination_degree": 357.85
+    },
+    {
+        "img_num": 684,
+        "illumination_degree": 358.02
+    },
+    {
+        "img_num": 685,
+        "illumination_degree": 358.18
+    },
+    {
+        "img_num": 686,
+        "illumination_degree": 358.34
+    },
+    {
+        "img_num": 687,
+        "illumination_degree": 358.5
+    },
+    {
+        "img_num": 688,
+        "illumination_degree": 358.63
+    },
+    {
+        "img_num": 689,
+        "illumination_degree": 358.77
+    },
+    {
+        "img_num": 690,
+        "illumination_degree": 358.9
+    },
+    {
+        "img_num": 691,
+        "illumination_degree": 359.02
+    },
+    {
+        "img_num": 692,
+        "illumination_degree": 359.13
+    },
+    {
+        "img_num": 693,
+        "illumination_degree": 359.24
+    },
+    {
+        "img_num": 694,
+        "illumination_degree": 359.35
+    },
+    {
+        "img_num": 695,
+        "illumination_degree": 359.44
+    },
+    {
+        "img_num": 696,
+        "illumination_degree": 359.51
+    },
+    {
+        "img_num": 697,
+        "illumination_degree": 359.6
+    },
+    {
+        "img_num": 698,
+        "illumination_degree": 359.67
+    },
+    {
+        "img_num": 699,
+        "illumination_degree": 359.73
+    },
+    {
+        "img_num": 700,
+        "illumination_degree": 359.78
+    },
+    {
+        "img_num": 701,
+        "illumination_degree": 359.83
+    },
+    {
+        "img_num": 702,
+        "illumination_degree": 359.89
+    },
+    {
+        "img_num": 703,
+        "illumination_degree": 359.91
+    },
+    {
+        "img_num": 704,
+        "illumination_degree": 359.94
+    },
+    {
+        "img_num": 705,
+        "illumination_degree": 359.96
+    },
+    {
+        "img_num": 706,
+        "illumination_degree": 359.98
+    },
+    {
+        "img_num": 707,
+        "illumination_degree": 360.0
+    }
+]
