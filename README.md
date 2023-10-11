@@ -2,7 +2,7 @@
 # LunarDelight
 
 ## Description
-LunarDelight provides tools for creating moon-related images and videos using Python. Explore the celestial wonders and visualize the moon in various phases and perspectives through generated media.
+LunarDelight provides tools for creating moon-related images and videos using Python. Explore and visualize the dance of the moon in various phases and perspectives through generated media.
 
 ## Installation
 Ensure that you have Python 3 installed on your system. Follow the steps below to set up LunarDelight:
