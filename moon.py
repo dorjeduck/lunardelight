@@ -55,6 +55,8 @@ else:
 
 
 time_str =  t.utc_strftime('%Y-%m-%d_%H:%M:%S')
+
+os.makedirs('output', exist_ok=True)
  
 if not output:   
     output_name = os.path.join('output','moon_' + time_str)
