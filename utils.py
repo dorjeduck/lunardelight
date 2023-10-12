@@ -9,8 +9,10 @@ from skyfield import almanac
 
 class LunarHelper:
     def __init__(self):
-        json_file = os.path.join('json', 'illumination.json')
-
+        self.__dir__ = os.path.dirname(os.path.realpath(__file__))
+        
+        json_file = os.path.join(self.__dir__ ,'json', 'illumination.json')
+     
         # Load data from JSON file
         with open(json_file, 'r') as file:
             self.data = json.load(file)

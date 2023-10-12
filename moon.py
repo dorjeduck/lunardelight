@@ -34,7 +34,7 @@ if output and TAT.contains_slash(output):
     print('Error: Output file name contains a slash')
     exit(1)
 
-
+__dir__ = os.path.dirname(os.path.realpath(__file__))
 ts = load.timescale()
 
 
@@ -60,9 +60,9 @@ os.makedirs('output', exist_ok=True)
  
 if not output:   
     time_str =  t.utc_strftime('%Y-%m-%d_%H:%M:%S')
-    output_name = os.path.join('output','moon_' + time_str)
+    output_name = os.path.join(__dir__,'output','moon_' + time_str)
 else:
-    output_name = os.path.join('output',output)
+    output_name = os.path.join(__dir__,'output',output)
 
 if location:
     lat, lon = map(float, location.split(','))
@@ -84,8 +84,7 @@ illumination_degrees = lunar_helper.get_illumination_degree(moon_info['illuminat
 
 nasa_approx = lunar_helper.get_nasa_approx(illumination_degrees)
 
-nasa_png = 'nasa/moon.{:03d}.png'.format(nasa_approx["img_num"])
-
+nasa_png = os.path.join(__dir__,'nasa','moon.{:03d}.png'.format(nasa_approx["img_num"]))
 
 if moon_info['position_angle']:
     output_name += "_{:.03f}_{:.03f}".format(*latlon)
