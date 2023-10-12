@@ -17,7 +17,8 @@ class LunarHelper:
         with open(json_file, 'r') as file:
             self.data = json.load(file)
 
-        self.eph = load('de421.bsp')
+        self.eph = self.load_ephemeris()
+        
         self.sun, self.moon, self.earth = self.eph['sun'], self.eph['moon'], self.eph['earth']
 
     def get_moon_info(self, t, latlon=False):
@@ -60,6 +61,24 @@ class LunarHelper:
             return illumination * 1.8
         else:
             return 360 - illumination*1.8
+    
+    def load_ephemeris(self,ephemeris_name='de421.bsp', folder_name='bsp'):
+        
+        folder_name = os.path.join(self.__dir__,folder_name)
+
+        # Ensure the folder exists
+        os.makedirs(folder_name, exist_ok=True)
+        
+        # Construct the path
+        ephemeris_path = os.path.join(folder_name, ephemeris_name)
+
+        if not os.path.isfile(ephemeris_path):
+            # Download the ephemeris if it is not present
+            eph = load(ephemeris_name)
+            os.rename(ephemeris_name, ephemeris_path)
+            return eph
+        else:
+            return load_file(ephemeris_path)
 
 class TAT:
     @classmethod

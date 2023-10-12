@@ -1,4 +1,6 @@
 from PIL import Image
+from skyfield.api import load
+
 import requests
 import os
 import json
@@ -127,3 +129,18 @@ for i, img_num in enumerate(range(2622, 3329)):
     # Pause for 5 second to avoid overwhelming the server
     # time.sleep(5)
 
+
+# Ensure the folder exists
+folder_name = 'bsp'
+ephemeris_name = 'de421.bsp'
+
+os.makedirs(folder_name, exist_ok=True)
+
+# Construct the path
+ephemeris_path = os.path.join(folder_name, ephemeris_name)
+
+if not os.path.isfile(ephemeris_path):
+    # Download the ephemeris if it is not present
+    print(f"Downloading ephemeris: {ephemeris_name}")
+    eph = load(ephemeris_name)
+    os.rename(ephemeris_name, ephemeris_path)
