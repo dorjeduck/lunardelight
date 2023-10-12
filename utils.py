@@ -3,7 +3,7 @@ import os
 
 from PIL import Image
 from datetime import datetime
-from skyfield.api import load, wgs84
+from skyfield.api import load, load_file,wgs84
 from skyfield.trigonometry import position_angle_of
 from skyfield import almanac
 
@@ -18,7 +18,7 @@ class LunarHelper:
             self.data = json.load(file)
 
         self.eph = self.load_ephemeris()
-        
+
         self.sun, self.moon, self.earth = self.eph['sun'], self.eph['moon'], self.eph['earth']
 
     def get_moon_info(self, t, latlon=False):
