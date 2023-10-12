@@ -94,7 +94,6 @@ if moon_info['position_angle']:
     moon_info['position_angle'] = round(moon_info['position_angle'].degrees,2)
 
 else:
-    print(nasa_png)
     shutil.copy(nasa_png,output_name + '.png')
     del moon_info['position_angle']
 
