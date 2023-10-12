@@ -51,7 +51,7 @@ else:
 
     if time:
         hour, minute, second = map(int, time.split(':'))
-        t += ts.utc(hour, minute, second)
+        t = ts.utc(year, month, day, hour, minute, second)
 
 
 
