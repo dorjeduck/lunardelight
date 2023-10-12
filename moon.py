@@ -56,7 +56,7 @@ else:
 
 
 
-os.makedirs('output', exist_ok=True)
+os.makedirs( os.path.join(__dir__,'output'), exist_ok=True)
  
 if not output:   
     time_str =  t.utc_strftime('%Y-%m-%d_%H:%M:%S')
@@ -88,7 +88,7 @@ nasa_png = os.path.join(__dir__,'nasa','moon.{:03d}.png'.format(nasa_approx["img
 
 if moon_info['position_angle']:
     output_name += "_{:.03f}_{:.03f}".format(*latlon)
-    print(output_name)
+   
     TAT.rotate_image(nasa_png,output_name + '.png',moon_info['position_angle'].degrees -90)
     moon_info['latitude'],moon_info['longitude'] = latlon[0], latlon[1]
     moon_info['position_angle'] = round(moon_info['position_angle'].degrees,2)
