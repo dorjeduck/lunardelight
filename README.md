@@ -106,3 +106,10 @@ LunarDelight is currently utilized by the following moon related social media ac
 
 We invite you to follow, like, and share our celestial explorations across these platforms!
 
+### See It in Action! 🚀
+
+Experience our tool live by interacting with our **[@LunarDelightBot](https://t.me/LunarDelightBot)** on Telegram! 
+
+![LunarDelightBot in Action](assets/new_year_moon_2024.png)
+
+
