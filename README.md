@@ -111,7 +111,7 @@ We invite you to follow, like, and share our celestial explorations across these
 Experience our tool live by interacting with our **[@LunarDelightBot](https://t.me/LunarDelightBot)** on Telegram! 
 
 <p align="center">
-   <img width="360" src="assets/new_year_moon_2024.png">
+   <img width="540" src="assets/new_year_moon_2024.png">
 </p>
 
 
