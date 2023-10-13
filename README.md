@@ -96,7 +96,7 @@ Stay tuned for more updates and features in LunarDelight!
 
 ## LunarDelight on Social Media
 
-LunarDelight is currently utilized by the following moon related social media accounts, where we share fascinating moon images, phases, and related content. Connect with us to stay updated with enchanting lunar visuals and insights:
+LunarDelight is currently utilized by the following moon related social media accounts, where we share moon images, phases, and related content. Connect with us to stay updated with enchanting lunar visuals and insights:
 
 - [Instagram](https://instagram.com/lunardelight)
 - [Twitter](https://twitter.com/lunardelight)
