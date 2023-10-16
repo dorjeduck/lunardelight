@@ -89,7 +89,7 @@ nasa_png = os.path.join(__dir__,'nasa','moon.{:03d}.png'.format(nasa_approx["img
 if moon_info['position_angle']:
     output_name += "_{:.03f}_{:.03f}".format(*latlon)
    
-    TAT.rotate_image(nasa_png,output_name + '.png',270 - moon_info['position_angle'].degrees )
+    TAT.rotate_image(nasa_png,output_name + '.png',moon_info['position_angle'].degrees - 90 )
     moon_info['latitude'],moon_info['longitude'] = latlon[0], latlon[1]
     moon_info['position_angle'] = round(moon_info['position_angle'].degrees,2)
 
