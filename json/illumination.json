@@ -1,2830 +1,3537 @@
 [
     {
         "img_num": 1,
-        "illumination_degree": 0.0
+        "illumination_degree": 0.0,
+        "orig_posangle": 341.081
     },
     {
         "img_num": 2,
-        "illumination_degree": 0.02
+        "illumination_degree": 0.02,
+        "orig_posangle": 341.19
     },
     {
         "img_num": 3,
-        "illumination_degree": 0.04
+        "illumination_degree": 0.04,
+        "orig_posangle": 341.301
     },
     {
         "img_num": 4,
-        "illumination_degree": 0.05
+        "illumination_degree": 0.05,
+        "orig_posangle": 341.413
     },
     {
         "img_num": 5,
-        "illumination_degree": 0.09
+        "illumination_degree": 0.09,
+        "orig_posangle": 341.527
     },
     {
         "img_num": 6,
-        "illumination_degree": 0.13
+        "illumination_degree": 0.13,
+        "orig_posangle": 341.643
     },
     {
         "img_num": 7,
-        "illumination_degree": 0.18
+        "illumination_degree": 0.18,
+        "orig_posangle": 341.76
     },
     {
         "img_num": 8,
-        "illumination_degree": 0.23
+        "illumination_degree": 0.23,
+        "orig_posangle": 341.879
     },
     {
         "img_num": 9,
-        "illumination_degree": 0.31
+        "illumination_degree": 0.31,
+        "orig_posangle": 341.999
     },
     {
         "img_num": 10,
-        "illumination_degree": 0.38
+        "illumination_degree": 0.38,
+        "orig_posangle": 342.121
     },
     {
         "img_num": 11,
-        "illumination_degree": 0.45
+        "illumination_degree": 0.45,
+        "orig_posangle": 342.245
     },
     {
         "img_num": 12,
-        "illumination_degree": 0.54
+        "illumination_degree": 0.54,
+        "orig_posangle": 342.37
     },
     {
         "img_num": 13,
-        "illumination_degree": 0.63
+        "illumination_degree": 0.63,
+        "orig_posangle": 342.497
     },
     {
         "img_num": 14,
-        "illumination_degree": 0.74
+        "illumination_degree": 0.74,
+        "orig_posangle": 342.626
     },
     {
         "img_num": 15,
-        "illumination_degree": 0.85
+        "illumination_degree": 0.85,
+        "orig_posangle": 342.756
     },
     {
         "img_num": 16,
-        "illumination_degree": 0.95
+        "illumination_degree": 0.95,
+        "orig_posangle": 342.888
     },
     {
         "img_num": 17,
-        "illumination_degree": 1.08
+        "illumination_degree": 1.08,
+        "orig_posangle": 343.021
     },
     {
         "img_num": 18,
-        "illumination_degree": 1.22
+        "illumination_degree": 1.22,
+        "orig_posangle": 343.156
     },
     {
         "img_num": 19,
-        "illumination_degree": 1.35
+        "illumination_degree": 1.35,
+        "orig_posangle": 343.293
     },
     {
         "img_num": 20,
-        "illumination_degree": 1.51
+        "illumination_degree": 1.51,
+        "orig_posangle": 343.431
     },
     {
         "img_num": 21,
-        "illumination_degree": 1.66
+        "illumination_degree": 1.66,
+        "orig_posangle": 343.571
     },
     {
         "img_num": 22,
-        "illumination_degree": 1.82
+        "illumination_degree": 1.82,
+        "orig_posangle": 343.712
     },
     {
         "img_num": 23,
-        "illumination_degree": 1.98
+        "illumination_degree": 1.98,
+        "orig_posangle": 343.855
     },
     {
         "img_num": 24,
-        "illumination_degree": 2.16
+        "illumination_degree": 2.16,
+        "orig_posangle": 343.999
     },
     {
         "img_num": 25,
-        "illumination_degree": 2.34
+        "illumination_degree": 2.34,
+        "orig_posangle": 344.145
     },
     {
         "img_num": 26,
-        "illumination_degree": 2.54
+        "illumination_degree": 2.54,
+        "orig_posangle": 344.292
     },
     {
         "img_num": 27,
-        "illumination_degree": 2.74
+        "illumination_degree": 2.74,
+        "orig_posangle": 344.441
     },
     {
         "img_num": 28,
-        "illumination_degree": 2.93
+        "illumination_degree": 2.93,
+        "orig_posangle": 344.591
     },
     {
         "img_num": 29,
-        "illumination_degree": 3.15
+        "illumination_degree": 3.15,
+        "orig_posangle": 344.743
     },
     {
         "img_num": 30,
-        "illumination_degree": 3.37
+        "illumination_degree": 3.37,
+        "orig_posangle": 344.896
     },
     {
         "img_num": 31,
-        "illumination_degree": 3.58
+        "illumination_degree": 3.58,
+        "orig_posangle": 345.051
     },
     {
         "img_num": 32,
-        "illumination_degree": 3.82
+        "illumination_degree": 3.82,
+        "orig_posangle": 345.208
     },
     {
         "img_num": 33,
-        "illumination_degree": 4.07
+        "illumination_degree": 4.07,
+        "orig_posangle": 345.365
     },
     {
         "img_num": 34,
-        "illumination_degree": 4.3
+        "illumination_degree": 4.3,
+        "orig_posangle": 345.525
     },
     {
         "img_num": 35,
-        "illumination_degree": 4.55
+        "illumination_degree": 4.55,
+        "orig_posangle": 345.685
     },
     {
         "img_num": 36,
-        "illumination_degree": 4.82
+        "illumination_degree": 4.82,
+        "orig_posangle": 345.848
     },
     {
         "img_num": 37,
-        "illumination_degree": 5.08
+        "illumination_degree": 5.08,
+        "orig_posangle": 346.011
     },
     {
         "img_num": 38,
-        "illumination_degree": 5.35
+        "illumination_degree": 5.35,
+        "orig_posangle": 346.176
     },
     {
         "img_num": 39,
-        "illumination_degree": 5.63
+        "illumination_degree": 5.63,
+        "orig_posangle": 346.342
     },
     {
         "img_num": 40,
-        "illumination_degree": 5.92
+        "illumination_degree": 5.92,
+        "orig_posangle": 346.51
     },
     {
         "img_num": 41,
-        "illumination_degree": 6.21
+        "illumination_degree": 6.21,
+        "orig_posangle": 346.679
     },
     {
         "img_num": 42,
-        "illumination_degree": 6.5
+        "illumination_degree": 6.5,
+        "orig_posangle": 346.85
     },
     {
         "img_num": 43,
-        "illumination_degree": 6.8
+        "illumination_degree": 6.8,
+        "orig_posangle": 347.022
     },
     {
         "img_num": 44,
-        "illumination_degree": 7.13
+        "illumination_degree": 7.13,
+        "orig_posangle": 347.195
     },
     {
         "img_num": 45,
-        "illumination_degree": 7.44
+        "illumination_degree": 7.44,
+        "orig_posangle": 347.37
     },
     {
         "img_num": 46,
-        "illumination_degree": 7.76
+        "illumination_degree": 7.76,
+        "orig_posangle": 347.546
     },
     {
         "img_num": 47,
-        "illumination_degree": 8.08
+        "illumination_degree": 8.08,
+        "orig_posangle": 347.723
     },
     {
         "img_num": 48,
-        "illumination_degree": 8.43
+        "illumination_degree": 8.43,
+        "orig_posangle": 347.901
     },
     {
         "img_num": 49,
-        "illumination_degree": 8.77
+        "illumination_degree": 8.77,
+        "orig_posangle": 348.081
     },
     {
         "img_num": 50,
-        "illumination_degree": 9.11
+        "illumination_degree": 9.11,
+        "orig_posangle": 348.262
     },
     {
         "img_num": 51,
-        "illumination_degree": 9.47
+        "illumination_degree": 9.47,
+        "orig_posangle": 348.444
     },
     {
         "img_num": 52,
-        "illumination_degree": 9.83
+        "illumination_degree": 9.83,
+        "orig_posangle": 348.628
     },
     {
         "img_num": 53,
-        "illumination_degree": 10.19
+        "illumination_degree": 10.19,
+        "orig_posangle": 348.813
     },
     {
         "img_num": 54,
-        "illumination_degree": 10.57
+        "illumination_degree": 10.57,
+        "orig_posangle": 348.999
     },
     {
         "img_num": 55,
-        "illumination_degree": 10.93
+        "illumination_degree": 10.93,
+        "orig_posangle": 349.186
     },
     {
         "img_num": 56,
-        "illumination_degree": 11.32
+        "illumination_degree": 11.32,
+        "orig_posangle": 349.374
     },
     {
         "img_num": 57,
-        "illumination_degree": 11.7
+        "illumination_degree": 11.7,
+        "orig_posangle": 349.564
     },
     {
         "img_num": 58,
-        "illumination_degree": 12.1
+        "illumination_degree": 12.1,
+        "orig_posangle": 349.754
     },
     {
         "img_num": 59,
-        "illumination_degree": 12.49
+        "illumination_degree": 12.49,
+        "orig_posangle": 349.946
     },
     {
         "img_num": 60,
-        "illumination_degree": 12.91
+        "illumination_degree": 12.91,
+        "orig_posangle": 350.139
     },
     {
         "img_num": 61,
-        "illumination_degree": 13.3
+        "illumination_degree": 13.3,
+        "orig_posangle": 350.333
     },
     {
         "img_num": 62,
-        "illumination_degree": 13.74
+        "illumination_degree": 13.74,
+        "orig_posangle": 350.528
     },
     {
         "img_num": 63,
-        "illumination_degree": 14.15
+        "illumination_degree": 14.15,
+        "orig_posangle": 350.724
     },
     {
         "img_num": 64,
-        "illumination_degree": 14.58
+        "illumination_degree": 14.58,
+        "orig_posangle": 350.921
     },
     {
         "img_num": 65,
-        "illumination_degree": 15.0
+        "illumination_degree": 15.0,
+        "orig_posangle": 351.12
     },
     {
         "img_num": 66,
-        "illumination_degree": 15.45
+        "illumination_degree": 15.45,
+        "orig_posangle": 351.319
     },
     {
         "img_num": 67,
-        "illumination_degree": 15.88
+        "illumination_degree": 15.88,
+        "orig_posangle": 351.519
     },
     {
         "img_num": 68,
-        "illumination_degree": 16.33
+        "illumination_degree": 16.33,
+        "orig_posangle": 351.72
     },
     {
         "img_num": 69,
-        "illumination_degree": 16.78
+        "illumination_degree": 16.78,
+        "orig_posangle": 351.922
     },
     {
         "img_num": 70,
-        "illumination_degree": 17.23
+        "illumination_degree": 17.23,
+        "orig_posangle": 352.125
     },
     {
         "img_num": 71,
-        "illumination_degree": 17.7
+        "illumination_degree": 17.7,
+        "orig_posangle": 352.329
     },
     {
         "img_num": 72,
-        "illumination_degree": 18.16
+        "illumination_degree": 18.16,
+        "orig_posangle": 352.534
     },
     {
         "img_num": 73,
-        "illumination_degree": 18.63
+        "illumination_degree": 18.63,
+        "orig_posangle": 352.739
     },
     {
         "img_num": 74,
-        "illumination_degree": 19.1
+        "illumination_degree": 19.1,
+        "orig_posangle": 352.946
     },
     {
         "img_num": 75,
-        "illumination_degree": 19.59
+        "illumination_degree": 19.59,
+        "orig_posangle": 353.153
     },
     {
         "img_num": 76,
-        "illumination_degree": 20.07
+        "illumination_degree": 20.07,
+        "orig_posangle": 353.361
     },
     {
         "img_num": 77,
-        "illumination_degree": 20.56
+        "illumination_degree": 20.56,
+        "orig_posangle": 353.57
     },
     {
         "img_num": 78,
-        "illumination_degree": 21.06
+        "illumination_degree": 21.06,
+        "orig_posangle": 353.779
     },
     {
         "img_num": 79,
-        "illumination_degree": 21.55
+        "illumination_degree": 21.55,
+        "orig_posangle": 353.99
     },
     {
         "img_num": 80,
-        "illumination_degree": 22.05
+        "illumination_degree": 22.05,
+        "orig_posangle": 354.2
     },
     {
         "img_num": 81,
-        "illumination_degree": 22.56
+        "illumination_degree": 22.56,
+        "orig_posangle": 354.412
     },
     {
         "img_num": 82,
-        "illumination_degree": 23.08
+        "illumination_degree": 23.08,
+        "orig_posangle": 354.624
     },
     {
         "img_num": 83,
-        "illumination_degree": 23.58
+        "illumination_degree": 23.58,
+        "orig_posangle": 354.837
     },
     {
         "img_num": 84,
-        "illumination_degree": 24.11
+        "illumination_degree": 24.11,
+        "orig_posangle": 355.051
     },
     {
         "img_num": 85,
-        "illumination_degree": 24.63
+        "illumination_degree": 24.63,
+        "orig_posangle": 355.265
     },
     {
         "img_num": 86,
-        "illumination_degree": 25.17
+        "illumination_degree": 25.17,
+        "orig_posangle": 355.479
     },
     {
         "img_num": 87,
-        "illumination_degree": 25.69
+        "illumination_degree": 25.69,
+        "orig_posangle": 355.694
     },
     {
         "img_num": 88,
-        "illumination_degree": 26.23
+        "illumination_degree": 26.23,
+        "orig_posangle": 355.91
     },
     {
         "img_num": 89,
-        "illumination_degree": 26.77
+        "illumination_degree": 26.77,
+        "orig_posangle": 356.126
     },
     {
         "img_num": 90,
-        "illumination_degree": 27.31
+        "illumination_degree": 27.31,
+        "orig_posangle": 356.343
     },
     {
         "img_num": 91,
-        "illumination_degree": 27.87
+        "illumination_degree": 27.87,
+        "orig_posangle": 356.56
     },
     {
         "img_num": 92,
-        "illumination_degree": 28.43
+        "illumination_degree": 28.43,
+        "orig_posangle": 356.777
     },
     {
         "img_num": 93,
-        "illumination_degree": 28.97
+        "illumination_degree": 28.97,
+        "orig_posangle": 356.995
     },
     {
         "img_num": 94,
-        "illumination_degree": 29.54
+        "illumination_degree": 29.54,
+        "orig_posangle": 357.213
     },
     {
         "img_num": 95,
-        "illumination_degree": 30.1
+        "illumination_degree": 30.1,
+        "orig_posangle": 357.431
     },
     {
         "img_num": 96,
-        "illumination_degree": 30.66
+        "illumination_degree": 30.66,
+        "orig_posangle": 357.65
     },
     {
         "img_num": 97,
-        "illumination_degree": 31.23
+        "illumination_degree": 31.23,
+        "orig_posangle": 357.869
     },
     {
         "img_num": 98,
-        "illumination_degree": 31.81
+        "illumination_degree": 31.81,
+        "orig_posangle": 358.088
     },
     {
         "img_num": 99,
-        "illumination_degree": 32.39
+        "illumination_degree": 32.39,
+        "orig_posangle": 358.307
     },
     {
         "img_num": 100,
-        "illumination_degree": 32.96
+        "illumination_degree": 32.96,
+        "orig_posangle": 358.527
     },
     {
         "img_num": 101,
-        "illumination_degree": 33.56
+        "illumination_degree": 33.56,
+        "orig_posangle": 358.746
     },
     {
         "img_num": 102,
-        "illumination_degree": 34.13
+        "illumination_degree": 34.13,
+        "orig_posangle": 358.966
     },
     {
         "img_num": 103,
-        "illumination_degree": 34.73
+        "illumination_degree": 34.73,
+        "orig_posangle": 359.186
     },
     {
         "img_num": 104,
-        "illumination_degree": 35.32
+        "illumination_degree": 35.32,
+        "orig_posangle": 359.406
     },
     {
         "img_num": 105,
-        "illumination_degree": 35.91
+        "illumination_degree": 35.91,
+        "orig_posangle": 359.626
     },
     {
         "img_num": 106,
-        "illumination_degree": 36.51
+        "illumination_degree": 36.51,
+        "orig_posangle": 359.846
     },
     {
         "img_num": 107,
-        "illumination_degree": 37.12
+        "illumination_degree": 37.12,
+        "orig_posangle": 0.066
     },
     {
         "img_num": 108,
-        "illumination_degree": 37.73
+        "illumination_degree": 37.73,
+        "orig_posangle": 0.286
     },
     {
         "img_num": 109,
-        "illumination_degree": 38.33
+        "illumination_degree": 38.33,
+        "orig_posangle": 0.506
     },
     {
         "img_num": 110,
-        "illumination_degree": 38.94
+        "illumination_degree": 38.94,
+        "orig_posangle": 0.725
     },
     {
         "img_num": 111,
-        "illumination_degree": 39.57
+        "illumination_degree": 39.57,
+        "orig_posangle": 0.945
     },
     {
         "img_num": 112,
-        "illumination_degree": 40.18
+        "illumination_degree": 40.18,
+        "orig_posangle": 1.165
     },
     {
         "img_num": 113,
-        "illumination_degree": 40.79
+        "illumination_degree": 40.79,
+        "orig_posangle": 1.384
     },
     {
         "img_num": 114,
-        "illumination_degree": 41.42
+        "illumination_degree": 41.42,
+        "orig_posangle": 1.603
     },
     {
         "img_num": 115,
-        "illumination_degree": 42.05
+        "illumination_degree": 42.05,
+        "orig_posangle": 1.822
     },
     {
         "img_num": 116,
-        "illumination_degree": 42.68
+        "illumination_degree": 42.68,
+        "orig_posangle": 2.04
     },
     {
         "img_num": 117,
-        "illumination_degree": 43.31
+        "illumination_degree": 43.31,
+        "orig_posangle": 2.259
     },
     {
         "img_num": 118,
-        "illumination_degree": 43.94
+        "illumination_degree": 43.94,
+        "orig_posangle": 2.477
     },
     {
         "img_num": 119,
-        "illumination_degree": 44.57
+        "illumination_degree": 44.57,
+        "orig_posangle": 2.694
     },
     {
         "img_num": 120,
-        "illumination_degree": 45.22
+        "illumination_degree": 45.22,
+        "orig_posangle": 2.912
     },
     {
         "img_num": 121,
-        "illumination_degree": 45.85
+        "illumination_degree": 45.85,
+        "orig_posangle": 3.129
     },
     {
         "img_num": 122,
-        "illumination_degree": 46.5
+        "illumination_degree": 46.5,
+        "orig_posangle": 3.345
     },
     {
         "img_num": 123,
-        "illumination_degree": 47.15
+        "illumination_degree": 47.15,
+        "orig_posangle": 3.561
     },
     {
         "img_num": 124,
-        "illumination_degree": 47.8
+        "illumination_degree": 47.8,
+        "orig_posangle": 3.776
     },
     {
         "img_num": 125,
-        "illumination_degree": 48.44
+        "illumination_degree": 48.44,
+        "orig_posangle": 3.992
     },
     {
         "img_num": 126,
-        "illumination_degree": 49.09
+        "illumination_degree": 49.09,
+        "orig_posangle": 4.206
     },
     {
         "img_num": 127,
-        "illumination_degree": 49.76
+        "illumination_degree": 49.76,
+        "orig_posangle": 4.42
     },
     {
         "img_num": 128,
-        "illumination_degree": 50.41
+        "illumination_degree": 50.41,
+        "orig_posangle": 4.633
     },
     {
         "img_num": 129,
-        "illumination_degree": 51.07
+        "illumination_degree": 51.07,
+        "orig_posangle": 4.846
     },
     {
         "img_num": 130,
-        "illumination_degree": 51.72
+        "illumination_degree": 51.72,
+        "orig_posangle": 5.058
     },
     {
         "img_num": 131,
-        "illumination_degree": 52.39
+        "illumination_degree": 52.39,
+        "orig_posangle": 5.27
     },
     {
         "img_num": 132,
-        "illumination_degree": 53.05
+        "illumination_degree": 53.05,
+        "orig_posangle": 5.48
     },
     {
         "img_num": 133,
-        "illumination_degree": 53.72
+        "illumination_degree": 53.72,
+        "orig_posangle": 5.69
     },
     {
         "img_num": 134,
-        "illumination_degree": 54.39
+        "illumination_degree": 54.39,
+        "orig_posangle": 5.9
     },
     {
         "img_num": 135,
-        "illumination_degree": 55.07
+        "illumination_degree": 55.07,
+        "orig_posangle": 6.108
     },
     {
         "img_num": 136,
-        "illumination_degree": 55.74
+        "illumination_degree": 55.74,
+        "orig_posangle": 6.316
     },
     {
         "img_num": 137,
-        "illumination_degree": 56.4
+        "illumination_degree": 56.4,
+        "orig_posangle": 6.523
     },
     {
         "img_num": 138,
-        "illumination_degree": 57.09
+        "illumination_degree": 57.09,
+        "orig_posangle": 6.73
     },
     {
         "img_num": 139,
-        "illumination_degree": 57.77
+        "illumination_degree": 57.77,
+        "orig_posangle": 6.935
     },
     {
         "img_num": 140,
-        "illumination_degree": 58.44
+        "illumination_degree": 58.44,
+        "orig_posangle": 7.139
     },
     {
         "img_num": 141,
-        "illumination_degree": 59.12
+        "illumination_degree": 59.12,
+        "orig_posangle": 7.343
     },
     {
         "img_num": 142,
-        "illumination_degree": 59.8
+        "illumination_degree": 59.8,
+        "orig_posangle": 7.546
     },
     {
         "img_num": 143,
-        "illumination_degree": 60.49
+        "illumination_degree": 60.49,
+        "orig_posangle": 7.748
     },
     {
         "img_num": 144,
-        "illumination_degree": 61.17
+        "illumination_degree": 61.17,
+        "orig_posangle": 7.948
     },
     {
         "img_num": 145,
-        "illumination_degree": 61.86
+        "illumination_degree": 61.86,
+        "orig_posangle": 8.148
     },
     {
         "img_num": 146,
-        "illumination_degree": 62.54
+        "illumination_degree": 62.54,
+        "orig_posangle": 8.347
     },
     {
         "img_num": 147,
-        "illumination_degree": 63.22
+        "illumination_degree": 63.22,
+        "orig_posangle": 8.545
     },
     {
         "img_num": 148,
-        "illumination_degree": 63.93
+        "illumination_degree": 63.93,
+        "orig_posangle": 8.742
     },
     {
         "img_num": 149,
-        "illumination_degree": 64.61
+        "illumination_degree": 64.61,
+        "orig_posangle": 8.938
     },
     {
         "img_num": 150,
-        "illumination_degree": 65.31
+        "illumination_degree": 65.31,
+        "orig_posangle": 9.133
     },
     {
         "img_num": 151,
-        "illumination_degree": 66.0
+        "illumination_degree": 66.0,
+        "orig_posangle": 9.326
     },
     {
         "img_num": 152,
-        "illumination_degree": 66.7
+        "illumination_degree": 66.7,
+        "orig_posangle": 9.519
     },
     {
         "img_num": 153,
-        "illumination_degree": 67.38
+        "illumination_degree": 67.38,
+        "orig_posangle": 9.71
     },
     {
         "img_num": 154,
-        "illumination_degree": 68.09
+        "illumination_degree": 68.09,
+        "orig_posangle": 9.901
     },
     {
         "img_num": 155,
-        "illumination_degree": 68.79
+        "illumination_degree": 68.79,
+        "orig_posangle": 10.09
     },
     {
         "img_num": 156,
-        "illumination_degree": 69.49
+        "illumination_degree": 69.49,
+        "orig_posangle": 10.278
     },
     {
         "img_num": 157,
-        "illumination_degree": 70.19
+        "illumination_degree": 70.19,
+        "orig_posangle": 10.464
     },
     {
         "img_num": 158,
-        "illumination_degree": 70.89
+        "illumination_degree": 70.89,
+        "orig_posangle": 10.65
     },
     {
         "img_num": 159,
-        "illumination_degree": 71.6
+        "illumination_degree": 71.6,
+        "orig_posangle": 10.834
     },
     {
         "img_num": 160,
-        "illumination_degree": 72.3
+        "illumination_degree": 72.3,
+        "orig_posangle": 11.018
     },
     {
         "img_num": 161,
-        "illumination_degree": 73.0
+        "illumination_degree": 73.0,
+        "orig_posangle": 11.2
     },
     {
         "img_num": 162,
-        "illumination_degree": 73.7
+        "illumination_degree": 73.7,
+        "orig_posangle": 11.38
     },
     {
         "img_num": 163,
-        "illumination_degree": 74.4
+        "illumination_degree": 74.4,
+        "orig_posangle": 11.56
     },
     {
         "img_num": 164,
-        "illumination_degree": 75.11
+        "illumination_degree": 75.11,
+        "orig_posangle": 11.738
     },
     {
         "img_num": 165,
-        "illumination_degree": 75.81
+        "illumination_degree": 75.81,
+        "orig_posangle": 11.914
     },
     {
         "img_num": 166,
-        "illumination_degree": 76.53
+        "illumination_degree": 76.53,
+        "orig_posangle": 12.09
     },
     {
         "img_num": 167,
-        "illumination_degree": 77.23
+        "illumination_degree": 77.23,
+        "orig_posangle": 12.264
     },
     {
         "img_num": 168,
-        "illumination_degree": 77.93
+        "illumination_degree": 77.93,
+        "orig_posangle": 12.437
     },
     {
         "img_num": 169,
-        "illumination_degree": 78.65
+        "illumination_degree": 78.65,
+        "orig_posangle": 12.608
     },
     {
         "img_num": 170,
-        "illumination_degree": 79.36
+        "illumination_degree": 79.36,
+        "orig_posangle": 12.778
     },
     {
         "img_num": 171,
-        "illumination_degree": 80.06
+        "illumination_degree": 80.06,
+        "orig_posangle": 12.947
     },
     {
         "img_num": 172,
-        "illumination_degree": 80.78
+        "illumination_degree": 80.78,
+        "orig_posangle": 13.115
     },
     {
         "img_num": 173,
-        "illumination_degree": 81.48
+        "illumination_degree": 81.48,
+        "orig_posangle": 13.281
     },
     {
         "img_num": 174,
-        "illumination_degree": 82.2
+        "illumination_degree": 82.2,
+        "orig_posangle": 13.445
     },
     {
         "img_num": 175,
-        "illumination_degree": 82.9
+        "illumination_degree": 82.9,
+        "orig_posangle": 13.608
     },
     {
         "img_num": 176,
-        "illumination_degree": 83.62
+        "illumination_degree": 83.62,
+        "orig_posangle": 13.77
     },
     {
         "img_num": 177,
-        "illumination_degree": 84.32
+        "illumination_degree": 84.32,
+        "orig_posangle": 13.93
     },
     {
         "img_num": 178,
-        "illumination_degree": 85.04
+        "illumination_degree": 85.04,
+        "orig_posangle": 14.089
     },
     {
         "img_num": 179,
-        "illumination_degree": 85.75
+        "illumination_degree": 85.75,
+        "orig_posangle": 14.247
     },
     {
         "img_num": 180,
-        "illumination_degree": 86.47
+        "illumination_degree": 86.47,
+        "orig_posangle": 14.402
     },
     {
         "img_num": 181,
-        "illumination_degree": 87.17
+        "illumination_degree": 87.17,
+        "orig_posangle": 14.557
     },
     {
         "img_num": 182,
-        "illumination_degree": 87.89
+        "illumination_degree": 87.89,
+        "orig_posangle": 14.71
     },
     {
         "img_num": 183,
-        "illumination_degree": 88.59
+        "illumination_degree": 88.59,
+        "orig_posangle": 14.862
     },
     {
         "img_num": 184,
-        "illumination_degree": 89.31
+        "illumination_degree": 89.31,
+        "orig_posangle": 15.012
     },
     {
         "img_num": 185,
-        "illumination_degree": 90.01
+        "illumination_degree": 90.01,
+        "orig_posangle": 15.16
     },
     {
         "img_num": 186,
-        "illumination_degree": 90.73
+        "illumination_degree": 90.73,
+        "orig_posangle": 15.307
     },
     {
         "img_num": 187,
-        "illumination_degree": 91.43
+        "illumination_degree": 91.43,
+        "orig_posangle": 15.453
     },
     {
         "img_num": 188,
-        "illumination_degree": 92.15
+        "illumination_degree": 92.15,
+        "orig_posangle": 15.597
     },
     {
         "img_num": 189,
-        "illumination_degree": 92.86
+        "illumination_degree": 92.86,
+        "orig_posangle": 15.739
     },
     {
         "img_num": 190,
-        "illumination_degree": 93.58
+        "illumination_degree": 93.58,
+        "orig_posangle": 15.88
     },
     {
         "img_num": 191,
-        "illumination_degree": 94.28
+        "illumination_degree": 94.28,
+        "orig_posangle": 16.02
     },
     {
         "img_num": 192,
-        "illumination_degree": 95.0
+        "illumination_degree": 95.0,
+        "orig_posangle": 16.158
     },
     {
         "img_num": 193,
-        "illumination_degree": 95.7
+        "illumination_degree": 95.7,
+        "orig_posangle": 16.294
     },
     {
         "img_num": 194,
-        "illumination_degree": 96.42
+        "illumination_degree": 96.42,
+        "orig_posangle": 16.429
     },
     {
         "img_num": 195,
-        "illumination_degree": 97.12
+        "illumination_degree": 97.12,
+        "orig_posangle": 16.563
     },
     {
         "img_num": 196,
-        "illumination_degree": 97.83
+        "illumination_degree": 97.83,
+        "orig_posangle": 16.694
     },
     {
         "img_num": 197,
-        "illumination_degree": 98.55
+        "illumination_degree": 98.55,
+        "orig_posangle": 16.825
     },
     {
         "img_num": 198,
-        "illumination_degree": 99.25
+        "illumination_degree": 99.25,
+        "orig_posangle": 16.953
     },
     {
         "img_num": 199,
-        "illumination_degree": 99.95
+        "illumination_degree": 99.95,
+        "orig_posangle": 17.081
     },
     {
         "img_num": 200,
-        "illumination_degree": 100.65
+        "illumination_degree": 100.65,
+        "orig_posangle": 17.206
     },
     {
         "img_num": 201,
-        "illumination_degree": 101.37
+        "illumination_degree": 101.37,
+        "orig_posangle": 17.33
     },
     {
         "img_num": 202,
-        "illumination_degree": 102.07
+        "illumination_degree": 102.07,
+        "orig_posangle": 17.453
     },
     {
         "img_num": 203,
-        "illumination_degree": 102.78
+        "illumination_degree": 102.78,
+        "orig_posangle": 17.574
     },
     {
         "img_num": 204,
-        "illumination_degree": 103.48
+        "illumination_degree": 103.48,
+        "orig_posangle": 17.693
     },
     {
         "img_num": 205,
-        "illumination_degree": 104.18
+        "illumination_degree": 104.18,
+        "orig_posangle": 17.811
     },
     {
         "img_num": 206,
-        "illumination_degree": 104.88
+        "illumination_degree": 104.88,
+        "orig_posangle": 17.927
     },
     {
         "img_num": 207,
-        "illumination_degree": 105.58
+        "illumination_degree": 105.58,
+        "orig_posangle": 18.042
     },
     {
         "img_num": 208,
-        "illumination_degree": 106.29
+        "illumination_degree": 106.29,
+        "orig_posangle": 18.155
     },
     {
         "img_num": 209,
-        "illumination_degree": 106.99
+        "illumination_degree": 106.99,
+        "orig_posangle": 18.266
     },
     {
         "img_num": 210,
-        "illumination_degree": 107.69
+        "illumination_degree": 107.69,
+        "orig_posangle": 18.376
     },
     {
         "img_num": 211,
-        "illumination_degree": 108.38
+        "illumination_degree": 108.38,
+        "orig_posangle": 18.485
     },
     {
         "img_num": 212,
-        "illumination_degree": 109.08
+        "illumination_degree": 109.08,
+        "orig_posangle": 18.592
     },
     {
         "img_num": 213,
-        "illumination_degree": 109.78
+        "illumination_degree": 109.78,
+        "orig_posangle": 18.697
     },
     {
         "img_num": 214,
-        "illumination_degree": 110.46
+        "illumination_degree": 110.46,
+        "orig_posangle": 18.801
     },
     {
         "img_num": 215,
-        "illumination_degree": 111.17
+        "illumination_degree": 111.17,
+        "orig_posangle": 18.903
     },
     {
         "img_num": 216,
-        "illumination_degree": 111.85
+        "illumination_degree": 111.85,
+        "orig_posangle": 19.003
     },
     {
         "img_num": 217,
-        "illumination_degree": 112.55
+        "illumination_degree": 112.55,
+        "orig_posangle": 19.102
     },
     {
         "img_num": 218,
-        "illumination_degree": 113.24
+        "illumination_degree": 113.24,
+        "orig_posangle": 19.2
     },
     {
         "img_num": 219,
-        "illumination_degree": 113.92
+        "illumination_degree": 113.92,
+        "orig_posangle": 19.295
     },
     {
         "img_num": 220,
-        "illumination_degree": 114.6
+        "illumination_degree": 114.6,
+        "orig_posangle": 19.39
     },
     {
         "img_num": 221,
-        "illumination_degree": 115.29
+        "illumination_degree": 115.29,
+        "orig_posangle": 19.482
     },
     {
         "img_num": 222,
-        "illumination_degree": 115.97
+        "illumination_degree": 115.97,
+        "orig_posangle": 19.573
     },
     {
         "img_num": 223,
-        "illumination_degree": 116.66
+        "illumination_degree": 116.66,
+        "orig_posangle": 19.663
     },
     {
         "img_num": 224,
-        "illumination_degree": 117.34
+        "illumination_degree": 117.34,
+        "orig_posangle": 19.751
     },
     {
         "img_num": 225,
-        "illumination_degree": 118.02
+        "illumination_degree": 118.02,
+        "orig_posangle": 19.837
     },
     {
         "img_num": 226,
-        "illumination_degree": 118.71
+        "illumination_degree": 118.71,
+        "orig_posangle": 19.922
     },
     {
         "img_num": 227,
-        "illumination_degree": 119.37
+        "illumination_degree": 119.37,
+        "orig_posangle": 20.006
     },
     {
         "img_num": 228,
-        "illumination_degree": 120.06
+        "illumination_degree": 120.06,
+        "orig_posangle": 20.087
     },
     {
         "img_num": 229,
-        "illumination_degree": 120.72
+        "illumination_degree": 120.72,
+        "orig_posangle": 20.167
     },
     {
         "img_num": 230,
-        "illumination_degree": 121.41
+        "illumination_degree": 121.41,
+        "orig_posangle": 20.246
     },
     {
         "img_num": 231,
-        "illumination_degree": 122.07
+        "illumination_degree": 122.07,
+        "orig_posangle": 20.323
     },
     {
         "img_num": 232,
-        "illumination_degree": 122.74
+        "illumination_degree": 122.74,
+        "orig_posangle": 20.399
     },
     {
         "img_num": 233,
-        "illumination_degree": 123.41
+        "illumination_degree": 123.41,
+        "orig_posangle": 20.473
     },
     {
         "img_num": 234,
-        "illumination_degree": 124.07
+        "illumination_degree": 124.07,
+        "orig_posangle": 20.545
     },
     {
         "img_num": 235,
-        "illumination_degree": 124.74
+        "illumination_degree": 124.74,
+        "orig_posangle": 20.616
     },
     {
         "img_num": 236,
-        "illumination_degree": 125.41
+        "illumination_degree": 125.41,
+        "orig_posangle": 20.685
     },
     {
         "img_num": 237,
-        "illumination_degree": 126.07
+        "illumination_degree": 126.07,
+        "orig_posangle": 20.753
     },
     {
         "img_num": 238,
-        "illumination_degree": 126.72
+        "illumination_degree": 126.72,
+        "orig_posangle": 20.819
     },
     {
         "img_num": 239,
-        "illumination_degree": 127.39
+        "illumination_degree": 127.39,
+        "orig_posangle": 20.884
     },
     {
         "img_num": 240,
-        "illumination_degree": 128.03
+        "illumination_degree": 128.03,
+        "orig_posangle": 20.947
     },
     {
         "img_num": 241,
-        "illumination_degree": 128.68
+        "illumination_degree": 128.68,
+        "orig_posangle": 21.008
     },
     {
         "img_num": 242,
-        "illumination_degree": 129.33
+        "illumination_degree": 129.33,
+        "orig_posangle": 21.068
     },
     {
         "img_num": 243,
-        "illumination_degree": 129.98
+        "illumination_degree": 129.98,
+        "orig_posangle": 21.127
     },
     {
         "img_num": 244,
-        "illumination_degree": 130.63
+        "illumination_degree": 130.63,
+        "orig_posangle": 21.184
     },
     {
         "img_num": 245,
-        "illumination_degree": 131.27
+        "illumination_degree": 131.27,
+        "orig_posangle": 21.239
     },
     {
         "img_num": 246,
-        "illumination_degree": 131.9
+        "illumination_degree": 131.9,
+        "orig_posangle": 21.293
     },
     {
         "img_num": 247,
-        "illumination_degree": 132.55
+        "illumination_degree": 132.55,
+        "orig_posangle": 21.346
     },
     {
         "img_num": 248,
-        "illumination_degree": 133.18
+        "illumination_degree": 133.18,
+        "orig_posangle": 21.396
     },
     {
         "img_num": 249,
-        "illumination_degree": 133.81
+        "illumination_degree": 133.81,
+        "orig_posangle": 21.446
     },
     {
         "img_num": 250,
-        "illumination_degree": 134.46
+        "illumination_degree": 134.46,
+        "orig_posangle": 21.494
     },
     {
         "img_num": 251,
-        "illumination_degree": 135.07
+        "illumination_degree": 135.07,
+        "orig_posangle": 21.54
     },
     {
         "img_num": 252,
-        "illumination_degree": 135.7
+        "illumination_degree": 135.7,
+        "orig_posangle": 21.585
     },
     {
         "img_num": 253,
-        "illumination_degree": 136.33
+        "illumination_degree": 136.33,
+        "orig_posangle": 21.628
     },
     {
         "img_num": 254,
-        "illumination_degree": 136.95
+        "illumination_degree": 136.95,
+        "orig_posangle": 21.67
     },
     {
         "img_num": 255,
-        "illumination_degree": 137.58
+        "illumination_degree": 137.58,
+        "orig_posangle": 21.71
     },
     {
         "img_num": 256,
-        "illumination_degree": 138.19
+        "illumination_degree": 138.19,
+        "orig_posangle": 21.749
     },
     {
         "img_num": 257,
-        "illumination_degree": 138.8
+        "illumination_degree": 138.8,
+        "orig_posangle": 21.786
     },
     {
         "img_num": 258,
-        "illumination_degree": 139.41
+        "illumination_degree": 139.41,
+        "orig_posangle": 21.821
     },
     {
         "img_num": 259,
-        "illumination_degree": 140.02
+        "illumination_degree": 140.02,
+        "orig_posangle": 21.856
     },
     {
         "img_num": 260,
-        "illumination_degree": 140.64
+        "illumination_degree": 140.64,
+        "orig_posangle": 21.888
     },
     {
         "img_num": 261,
-        "illumination_degree": 141.23
+        "illumination_degree": 141.23,
+        "orig_posangle": 21.919
     },
     {
         "img_num": 262,
-        "illumination_degree": 141.82
+        "illumination_degree": 141.82,
+        "orig_posangle": 21.949
     },
     {
         "img_num": 263,
-        "illumination_degree": 142.42
+        "illumination_degree": 142.42,
+        "orig_posangle": 21.977
     },
     {
         "img_num": 264,
-        "illumination_degree": 143.01
+        "illumination_degree": 143.01,
+        "orig_posangle": 22.004
     },
     {
         "img_num": 265,
-        "illumination_degree": 143.61
+        "illumination_degree": 143.61,
+        "orig_posangle": 22.029
     },
     {
         "img_num": 266,
-        "illumination_degree": 144.2
+        "illumination_degree": 144.2,
+        "orig_posangle": 22.053
     },
     {
         "img_num": 267,
-        "illumination_degree": 144.78
+        "illumination_degree": 144.78,
+        "orig_posangle": 22.075
     },
     {
         "img_num": 268,
-        "illumination_degree": 145.37
+        "illumination_degree": 145.37,
+        "orig_posangle": 22.095
     },
     {
         "img_num": 269,
-        "illumination_degree": 145.95
+        "illumination_degree": 145.95,
+        "orig_posangle": 22.114
     },
     {
         "img_num": 270,
-        "illumination_degree": 146.52
+        "illumination_degree": 146.52,
+        "orig_posangle": 22.132
     },
     {
         "img_num": 271,
-        "illumination_degree": 147.08
+        "illumination_degree": 147.08,
+        "orig_posangle": 22.148
     },
     {
         "img_num": 272,
-        "illumination_degree": 147.66
+        "illumination_degree": 147.66,
+        "orig_posangle": 22.163
     },
     {
         "img_num": 273,
-        "illumination_degree": 148.21
+        "illumination_degree": 148.21,
+        "orig_posangle": 22.176
     },
     {
         "img_num": 274,
-        "illumination_degree": 148.77
+        "illumination_degree": 148.77,
+        "orig_posangle": 22.188
     },
     {
         "img_num": 275,
-        "illumination_degree": 149.33
+        "illumination_degree": 149.33,
+        "orig_posangle": 22.198
     },
     {
         "img_num": 276,
-        "illumination_degree": 149.89
+        "illumination_degree": 149.89,
+        "orig_posangle": 22.207
     },
     {
         "img_num": 277,
-        "illumination_degree": 150.45
+        "illumination_degree": 150.45,
+        "orig_posangle": 22.214
     },
     {
         "img_num": 278,
-        "illumination_degree": 150.99
+        "illumination_degree": 150.99,
+        "orig_posangle": 22.22
     },
     {
         "img_num": 279,
-        "illumination_degree": 151.53
+        "illumination_degree": 151.53,
+        "orig_posangle": 22.224
     },
     {
         "img_num": 280,
-        "illumination_degree": 152.07
+        "illumination_degree": 152.07,
+        "orig_posangle": 22.227
     },
     {
         "img_num": 281,
-        "illumination_degree": 152.61
+        "illumination_degree": 152.61,
+        "orig_posangle": 22.228
     },
     {
         "img_num": 282,
-        "illumination_degree": 153.15
+        "illumination_degree": 153.15,
+        "orig_posangle": 22.228
     },
     {
         "img_num": 283,
-        "illumination_degree": 153.67
+        "illumination_degree": 153.67,
+        "orig_posangle": 22.226
     },
     {
         "img_num": 284,
-        "illumination_degree": 154.19
+        "illumination_degree": 154.19,
+        "orig_posangle": 22.223
     },
     {
         "img_num": 285,
-        "illumination_degree": 154.71
+        "illumination_degree": 154.71,
+        "orig_posangle": 22.218
     },
     {
         "img_num": 286,
-        "illumination_degree": 155.24
+        "illumination_degree": 155.24,
+        "orig_posangle": 22.212
     },
     {
         "img_num": 287,
-        "illumination_degree": 155.74
+        "illumination_degree": 155.74,
+        "orig_posangle": 22.204
     },
     {
         "img_num": 288,
-        "illumination_degree": 156.26
+        "illumination_degree": 156.26,
+        "orig_posangle": 22.195
     },
     {
         "img_num": 289,
-        "illumination_degree": 156.77
+        "illumination_degree": 156.77,
+        "orig_posangle": 22.184
     },
     {
         "img_num": 290,
-        "illumination_degree": 157.27
+        "illumination_degree": 157.27,
+        "orig_posangle": 22.172
     },
     {
         "img_num": 291,
-        "illumination_degree": 157.76
+        "illumination_degree": 157.76,
+        "orig_posangle": 22.158
     },
     {
         "img_num": 292,
-        "illumination_degree": 158.26
+        "illumination_degree": 158.26,
+        "orig_posangle": 22.143
     },
     {
         "img_num": 293,
-        "illumination_degree": 158.75
+        "illumination_degree": 158.75,
+        "orig_posangle": 22.126
     },
     {
         "img_num": 294,
-        "illumination_degree": 159.23
+        "illumination_degree": 159.23,
+        "orig_posangle": 22.108
     },
     {
         "img_num": 295,
-        "illumination_degree": 159.7
+        "illumination_degree": 159.7,
+        "orig_posangle": 22.088
     },
     {
         "img_num": 296,
-        "illumination_degree": 160.19
+        "illumination_degree": 160.19,
+        "orig_posangle": 22.067
     },
     {
         "img_num": 297,
-        "illumination_degree": 160.65
+        "illumination_degree": 160.65,
+        "orig_posangle": 22.044
     },
     {
         "img_num": 298,
-        "illumination_degree": 161.12
+        "illumination_degree": 161.12,
+        "orig_posangle": 22.02
     },
     {
         "img_num": 299,
-        "illumination_degree": 161.57
+        "illumination_degree": 161.57,
+        "orig_posangle": 21.995
     },
     {
         "img_num": 300,
-        "illumination_degree": 162.04
+        "illumination_degree": 162.04,
+        "orig_posangle": 21.967
     },
     {
         "img_num": 301,
-        "illumination_degree": 162.49
+        "illumination_degree": 162.49,
+        "orig_posangle": 21.939
     },
     {
         "img_num": 302,
-        "illumination_degree": 162.94
+        "illumination_degree": 162.94,
+        "orig_posangle": 21.908
     },
     {
         "img_num": 303,
-        "illumination_degree": 163.37
+        "illumination_degree": 163.37,
+        "orig_posangle": 21.877
     },
     {
         "img_num": 304,
-        "illumination_degree": 163.82
+        "illumination_degree": 163.82,
+        "orig_posangle": 21.843
     },
     {
         "img_num": 305,
-        "illumination_degree": 164.25
+        "illumination_degree": 164.25,
+        "orig_posangle": 21.808
     },
     {
         "img_num": 306,
-        "illumination_degree": 164.67
+        "illumination_degree": 164.67,
+        "orig_posangle": 21.772
     },
     {
         "img_num": 307,
-        "illumination_degree": 165.1
+        "illumination_degree": 165.1,
+        "orig_posangle": 21.734
     },
     {
         "img_num": 308,
-        "illumination_degree": 165.51
+        "illumination_degree": 165.51,
+        "orig_posangle": 21.695
     },
     {
         "img_num": 309,
-        "illumination_degree": 165.93
+        "illumination_degree": 165.93,
+        "orig_posangle": 21.654
     },
     {
         "img_num": 310,
-        "illumination_degree": 166.34
+        "illumination_degree": 166.34,
+        "orig_posangle": 21.611
     },
     {
         "img_num": 311,
-        "illumination_degree": 166.74
+        "illumination_degree": 166.74,
+        "orig_posangle": 21.567
     },
     {
         "img_num": 312,
-        "illumination_degree": 167.14
+        "illumination_degree": 167.14,
+        "orig_posangle": 21.522
     },
     {
         "img_num": 313,
-        "illumination_degree": 167.53
+        "illumination_degree": 167.53,
+        "orig_posangle": 21.475
     },
     {
         "img_num": 314,
-        "illumination_degree": 167.93
+        "illumination_degree": 167.93,
+        "orig_posangle": 21.426
     },
     {
         "img_num": 315,
-        "illumination_degree": 168.31
+        "illumination_degree": 168.31,
+        "orig_posangle": 21.376
     },
     {
         "img_num": 316,
-        "illumination_degree": 168.68
+        "illumination_degree": 168.68,
+        "orig_posangle": 21.324
     },
     {
         "img_num": 317,
-        "illumination_degree": 169.06
+        "illumination_degree": 169.06,
+        "orig_posangle": 21.271
     },
     {
         "img_num": 318,
-        "illumination_degree": 169.42
+        "illumination_degree": 169.42,
+        "orig_posangle": 21.216
     },
     {
         "img_num": 319,
-        "illumination_degree": 169.78
+        "illumination_degree": 169.78,
+        "orig_posangle": 21.16
     },
     {
         "img_num": 320,
-        "illumination_degree": 170.14
+        "illumination_degree": 170.14,
+        "orig_posangle": 21.102
     },
     {
         "img_num": 321,
-        "illumination_degree": 170.48
+        "illumination_degree": 170.48,
+        "orig_posangle": 21.042
     },
     {
         "img_num": 322,
-        "illumination_degree": 170.83
+        "illumination_degree": 170.83,
+        "orig_posangle": 20.981
     },
     {
         "img_num": 323,
-        "illumination_degree": 171.17
+        "illumination_degree": 171.17,
+        "orig_posangle": 20.918
     },
     {
         "img_num": 324,
-        "illumination_degree": 171.51
+        "illumination_degree": 171.51,
+        "orig_posangle": 20.854
     },
     {
         "img_num": 325,
-        "illumination_degree": 171.83
+        "illumination_degree": 171.83,
+        "orig_posangle": 20.788
     },
     {
         "img_num": 326,
-        "illumination_degree": 172.16
+        "illumination_degree": 172.16,
+        "orig_posangle": 20.72
     },
     {
         "img_num": 327,
-        "illumination_degree": 172.46
+        "illumination_degree": 172.46,
+        "orig_posangle": 20.651
     },
     {
         "img_num": 328,
-        "illumination_degree": 172.77
+        "illumination_degree": 172.77,
+        "orig_posangle": 20.58
     },
     {
         "img_num": 329,
-        "illumination_degree": 173.08
+        "illumination_degree": 173.08,
+        "orig_posangle": 20.508
     },
     {
         "img_num": 330,
-        "illumination_degree": 173.38
+        "illumination_degree": 173.38,
+        "orig_posangle": 20.434
     },
     {
         "img_num": 331,
-        "illumination_degree": 173.67
+        "illumination_degree": 173.67,
+        "orig_posangle": 20.359
     },
     {
         "img_num": 332,
-        "illumination_degree": 173.96
+        "illumination_degree": 173.96,
+        "orig_posangle": 20.281
     },
     {
         "img_num": 333,
-        "illumination_degree": 174.25
+        "illumination_degree": 174.25,
+        "orig_posangle": 20.202
     },
     {
         "img_num": 334,
-        "illumination_degree": 174.52
+        "illumination_degree": 174.52,
+        "orig_posangle": 20.122
     },
     {
         "img_num": 335,
-        "illumination_degree": 174.79
+        "illumination_degree": 174.79,
+        "orig_posangle": 20.04
     },
     {
         "img_num": 336,
-        "illumination_degree": 175.04
+        "illumination_degree": 175.04,
+        "orig_posangle": 19.956
     },
     {
         "img_num": 337,
-        "illumination_degree": 175.29
+        "illumination_degree": 175.29,
+        "orig_posangle": 19.871
     },
     {
         "img_num": 338,
-        "illumination_degree": 175.54
+        "illumination_degree": 175.54,
+        "orig_posangle": 19.784
     },
     {
         "img_num": 339,
-        "illumination_degree": 175.79
+        "illumination_degree": 175.79,
+        "orig_posangle": 19.695
     },
     {
         "img_num": 340,
-        "illumination_degree": 176.03
+        "illumination_degree": 176.03,
+        "orig_posangle": 19.604
     },
     {
         "img_num": 341,
-        "illumination_degree": 176.24
+        "illumination_degree": 176.24,
+        "orig_posangle": 19.512
     },
     {
         "img_num": 342,
-        "illumination_degree": 176.48
+        "illumination_degree": 176.48,
+        "orig_posangle": 19.419
     },
     {
         "img_num": 343,
-        "illumination_degree": 176.69
+        "illumination_degree": 176.69,
+        "orig_posangle": 19.323
     },
     {
         "img_num": 344,
-        "illumination_degree": 176.91
+        "illumination_degree": 176.91,
+        "orig_posangle": 19.226
     },
     {
         "img_num": 345,
-        "illumination_degree": 177.11
+        "illumination_degree": 177.11,
+        "orig_posangle": 19.127
     },
     {
         "img_num": 346,
-        "illumination_degree": 177.31
+        "illumination_degree": 177.31,
+        "orig_posangle": 19.027
     },
     {
         "img_num": 347,
-        "illumination_degree": 177.49
+        "illumination_degree": 177.49,
+        "orig_posangle": 18.924
     },
     {
         "img_num": 348,
-        "illumination_degree": 177.68
+        "illumination_degree": 177.68,
+        "orig_posangle": 18.821
     },
     {
         "img_num": 349,
-        "illumination_degree": 177.86
+        "illumination_degree": 177.86,
+        "orig_posangle": 18.715
     },
     {
         "img_num": 350,
-        "illumination_degree": 178.03
+        "illumination_degree": 178.03,
+        "orig_posangle": 18.607
     },
     {
         "img_num": 351,
-        "illumination_degree": 178.19
+        "illumination_degree": 178.19,
+        "orig_posangle": 18.498
     },
     {
         "img_num": 352,
-        "illumination_degree": 178.35
+        "illumination_degree": 178.35,
+        "orig_posangle": 18.388
     },
     {
         "img_num": 353,
-        "illumination_degree": 178.49
+        "illumination_degree": 178.49,
+        "orig_posangle": 18.275
     },
     {
         "img_num": 354,
-        "illumination_degree": 178.64
+        "illumination_degree": 178.64,
+        "orig_posangle": 18.161
     },
     {
         "img_num": 355,
-        "illumination_degree": 178.78
+        "illumination_degree": 178.78,
+        "orig_posangle": 18.045
     },
     {
         "img_num": 356,
-        "illumination_degree": 178.91
+        "illumination_degree": 178.91,
+        "orig_posangle": 17.927
     },
     {
         "img_num": 357,
-        "illumination_degree": 179.03
+        "illumination_degree": 179.03,
+        "orig_posangle": 17.807
     },
     {
         "img_num": 358,
-        "illumination_degree": 179.14
+        "illumination_degree": 179.14,
+        "orig_posangle": 17.686
     },
     {
         "img_num": 359,
-        "illumination_degree": 179.25
+        "illumination_degree": 179.25,
+        "orig_posangle": 17.563
     },
     {
         "img_num": 360,
-        "illumination_degree": 179.36
+        "illumination_degree": 179.36,
+        "orig_posangle": 17.438
     },
     {
         "img_num": 361,
-        "illumination_degree": 179.45
+        "illumination_degree": 179.45,
+        "orig_posangle": 17.311
     },
     {
         "img_num": 362,
-        "illumination_degree": 179.54
+        "illumination_degree": 179.54,
+        "orig_posangle": 17.183
     },
     {
         "img_num": 363,
-        "illumination_degree": 179.61
+        "illumination_degree": 179.61,
+        "orig_posangle": 17.053
     },
     {
         "img_num": 364,
-        "illumination_degree": 179.68
+        "illumination_degree": 179.68,
+        "orig_posangle": 16.921
     },
     {
         "img_num": 365,
-        "illumination_degree": 179.75
+        "illumination_degree": 179.75,
+        "orig_posangle": 16.787
     },
     {
         "img_num": 366,
-        "illumination_degree": 179.81
+        "illumination_degree": 179.81,
+        "orig_posangle": 16.652
     },
     {
         "img_num": 367,
-        "illumination_degree": 179.86
+        "illumination_degree": 179.86,
+        "orig_posangle": 16.514
     },
     {
         "img_num": 368,
-        "illumination_degree": 179.9
+        "illumination_degree": 179.9,
+        "orig_posangle": 16.375
     },
     {
         "img_num": 369,
-        "illumination_degree": 179.93
+        "illumination_degree": 179.93,
+        "orig_posangle": 16.234
     },
     {
         "img_num": 370,
-        "illumination_degree": 179.97
+        "illumination_degree": 179.97,
+        "orig_posangle": 16.092
     },
     {
         "img_num": 371,
-        "illumination_degree": 179.98
+        "illumination_degree": 179.98,
+        "orig_posangle": 15.947
     },
     {
         "img_num": 372,
-        "illumination_degree": 179.99
+        "illumination_degree": 179.99,
+        "orig_posangle": 15.801
     },
     {
         "img_num": 373,
-        "illumination_degree": 180.0
+        "illumination_degree": 180.0,
+        "orig_posangle": 15.652
     },
     {
         "img_num": 374,
-        "illumination_degree": 180.01
+        "illumination_degree": 180.01,
+        "orig_posangle": 15.503
     },
     {
         "img_num": 375,
-        "illumination_degree": 180.02
+        "illumination_degree": 180.02,
+        "orig_posangle": 15.351
     },
     {
         "img_num": 376,
-        "illumination_degree": 180.06
+        "illumination_degree": 180.06,
+        "orig_posangle": 15.197
     },
     {
         "img_num": 377,
-        "illumination_degree": 180.08
+        "illumination_degree": 180.08,
+        "orig_posangle": 15.042
     },
     {
         "img_num": 378,
-        "illumination_degree": 180.12
+        "illumination_degree": 180.12,
+        "orig_posangle": 14.885
     },
     {
         "img_num": 379,
-        "illumination_degree": 180.15
+        "illumination_degree": 180.15,
+        "orig_posangle": 14.726
     },
     {
         "img_num": 380,
-        "illumination_degree": 180.21
+        "illumination_degree": 180.21,
+        "orig_posangle": 14.565
     },
     {
         "img_num": 381,
-        "illumination_degree": 180.26
+        "illumination_degree": 180.26,
+        "orig_posangle": 14.402
     },
     {
         "img_num": 382,
-        "illumination_degree": 180.31
+        "illumination_degree": 180.31,
+        "orig_posangle": 14.238
     },
     {
         "img_num": 383,
-        "illumination_degree": 180.39
+        "illumination_degree": 180.39,
+        "orig_posangle": 14.071
     },
     {
         "img_num": 384,
-        "illumination_degree": 180.46
+        "illumination_degree": 180.46,
+        "orig_posangle": 13.903
     },
     {
         "img_num": 385,
-        "illumination_degree": 180.55
+        "illumination_degree": 180.55,
+        "orig_posangle": 13.733
     },
     {
         "img_num": 386,
-        "illumination_degree": 180.64
+        "illumination_degree": 180.64,
+        "orig_posangle": 13.562
     },
     {
         "img_num": 387,
-        "illumination_degree": 180.75
+        "illumination_degree": 180.75,
+        "orig_posangle": 13.388
     },
     {
         "img_num": 388,
-        "illumination_degree": 180.85
+        "illumination_degree": 180.85,
+        "orig_posangle": 13.213
     },
     {
         "img_num": 389,
-        "illumination_degree": 180.96
+        "illumination_degree": 180.96,
+        "orig_posangle": 13.036
     },
     {
         "img_num": 390,
-        "illumination_degree": 181.09
+        "illumination_degree": 181.09,
+        "orig_posangle": 12.857
     },
     {
         "img_num": 391,
-        "illumination_degree": 181.21
+        "illumination_degree": 181.21,
+        "orig_posangle": 12.676
     },
     {
         "img_num": 392,
-        "illumination_degree": 181.36
+        "illumination_degree": 181.36,
+        "orig_posangle": 12.494
     },
     {
         "img_num": 393,
-        "illumination_degree": 181.5
+        "illumination_degree": 181.5,
+        "orig_posangle": 12.31
     },
     {
         "img_num": 394,
-        "illumination_degree": 181.65
+        "illumination_degree": 181.65,
+        "orig_posangle": 12.124
     },
     {
         "img_num": 395,
-        "illumination_degree": 181.81
+        "illumination_degree": 181.81,
+        "orig_posangle": 11.936
     },
     {
         "img_num": 396,
-        "illumination_degree": 181.97
+        "illumination_degree": 181.97,
+        "orig_posangle": 11.747
     },
     {
         "img_num": 397,
-        "illumination_degree": 182.15
+        "illumination_degree": 182.15,
+        "orig_posangle": 11.555
     },
     {
         "img_num": 398,
-        "illumination_degree": 182.33
+        "illumination_degree": 182.33,
+        "orig_posangle": 11.363
     },
     {
         "img_num": 399,
-        "illumination_degree": 182.53
+        "illumination_degree": 182.53,
+        "orig_posangle": 11.168
     },
     {
         "img_num": 400,
-        "illumination_degree": 182.73
+        "illumination_degree": 182.73,
+        "orig_posangle": 10.972
     },
     {
         "img_num": 401,
-        "illumination_degree": 182.94
+        "illumination_degree": 182.94,
+        "orig_posangle": 10.774
     },
     {
         "img_num": 402,
-        "illumination_degree": 183.16
+        "illumination_degree": 183.16,
+        "orig_posangle": 10.574
     },
     {
         "img_num": 403,
-        "illumination_degree": 183.37
+        "illumination_degree": 183.37,
+        "orig_posangle": 10.373
     },
     {
         "img_num": 404,
-        "illumination_degree": 183.61
+        "illumination_degree": 183.61,
+        "orig_posangle": 10.169
     },
     {
         "img_num": 405,
-        "illumination_degree": 183.84
+        "illumination_degree": 183.84,
+        "orig_posangle": 9.965
     },
     {
         "img_num": 406,
-        "illumination_degree": 184.09
+        "illumination_degree": 184.09,
+        "orig_posangle": 9.758
     },
     {
         "img_num": 407,
-        "illumination_degree": 184.35
+        "illumination_degree": 184.35,
+        "orig_posangle": 9.551
     },
     {
         "img_num": 408,
-        "illumination_degree": 184.6
+        "illumination_degree": 184.6,
+        "orig_posangle": 9.341
     },
     {
         "img_num": 409,
-        "illumination_degree": 184.87
+        "illumination_degree": 184.87,
+        "orig_posangle": 9.13
     },
     {
         "img_num": 410,
-        "illumination_degree": 185.14
+        "illumination_degree": 185.14,
+        "orig_posangle": 8.917
     },
     {
         "img_num": 411,
-        "illumination_degree": 185.43
+        "illumination_degree": 185.43,
+        "orig_posangle": 8.703
     },
     {
         "img_num": 412,
-        "illumination_degree": 185.71
+        "illumination_degree": 185.71,
+        "orig_posangle": 8.487
     },
     {
         "img_num": 413,
-        "illumination_degree": 186.02
+        "illumination_degree": 186.02,
+        "orig_posangle": 8.27
     },
     {
         "img_num": 414,
-        "illumination_degree": 186.33
+        "illumination_degree": 186.33,
+        "orig_posangle": 8.051
     },
     {
         "img_num": 415,
-        "illumination_degree": 186.65
+        "illumination_degree": 186.65,
+        "orig_posangle": 7.831
     },
     {
         "img_num": 416,
-        "illumination_degree": 186.96
+        "illumination_degree": 186.96,
+        "orig_posangle": 7.61
     },
     {
         "img_num": 417,
-        "illumination_degree": 187.3
+        "illumination_degree": 187.3,
+        "orig_posangle": 7.387
     },
     {
         "img_num": 418,
-        "illumination_degree": 187.64
+        "illumination_degree": 187.64,
+        "orig_posangle": 7.162
     },
     {
         "img_num": 419,
-        "illumination_degree": 187.98
+        "illumination_degree": 187.98,
+        "orig_posangle": 6.936
     },
     {
         "img_num": 420,
-        "illumination_degree": 188.32
+        "illumination_degree": 188.32,
+        "orig_posangle": 6.709
     },
     {
         "img_num": 421,
-        "illumination_degree": 188.68
+        "illumination_degree": 188.68,
+        "orig_posangle": 6.481
     },
     {
         "img_num": 422,
-        "illumination_degree": 189.06
+        "illumination_degree": 189.06,
+        "orig_posangle": 6.251
     },
     {
         "img_num": 423,
-        "illumination_degree": 189.42
+        "illumination_degree": 189.42,
+        "orig_posangle": 6.02
     },
     {
         "img_num": 424,
-        "illumination_degree": 189.82
+        "illumination_degree": 189.82,
+        "orig_posangle": 5.788
     },
     {
         "img_num": 425,
-        "illumination_degree": 190.2
+        "illumination_degree": 190.2,
+        "orig_posangle": 5.554
     },
     {
         "img_num": 426,
-        "illumination_degree": 190.59
+        "illumination_degree": 190.59,
+        "orig_posangle": 5.32
     },
     {
         "img_num": 427,
-        "illumination_degree": 191.01
+        "illumination_degree": 191.01,
+        "orig_posangle": 5.084
     },
     {
         "img_num": 428,
-        "illumination_degree": 191.42
+        "illumination_degree": 191.42,
+        "orig_posangle": 4.847
     },
     {
         "img_num": 429,
-        "illumination_degree": 191.83
+        "illumination_degree": 191.83,
+        "orig_posangle": 4.609
     },
     {
         "img_num": 430,
-        "illumination_degree": 192.25
+        "illumination_degree": 192.25,
+        "orig_posangle": 4.37
     },
     {
         "img_num": 431,
-        "illumination_degree": 192.68
+        "illumination_degree": 192.68,
+        "orig_posangle": 4.13
     },
     {
         "img_num": 432,
-        "illumination_degree": 193.13
+        "illumination_degree": 193.13,
+        "orig_posangle": 3.889
     },
     {
         "img_num": 433,
-        "illumination_degree": 193.58
+        "illumination_degree": 193.58,
+        "orig_posangle": 3.647
     },
     {
         "img_num": 434,
-        "illumination_degree": 194.03
+        "illumination_degree": 194.03,
+        "orig_posangle": 3.404
     },
     {
         "img_num": 435,
-        "illumination_degree": 194.5
+        "illumination_degree": 194.5,
+        "orig_posangle": 3.161
     },
     {
         "img_num": 436,
-        "illumination_degree": 194.97
+        "illumination_degree": 194.97,
+        "orig_posangle": 2.916
     },
     {
         "img_num": 437,
-        "illumination_degree": 195.44
+        "illumination_degree": 195.44,
+        "orig_posangle": 2.671
     },
     {
         "img_num": 438,
-        "illumination_degree": 195.92
+        "illumination_degree": 195.92,
+        "orig_posangle": 2.425
     },
     {
         "img_num": 439,
-        "illumination_degree": 196.41
+        "illumination_degree": 196.41,
+        "orig_posangle": 2.178
     },
     {
         "img_num": 440,
-        "illumination_degree": 196.91
+        "illumination_degree": 196.91,
+        "orig_posangle": 1.931
     },
     {
         "img_num": 441,
-        "illumination_degree": 197.42
+        "illumination_degree": 197.42,
+        "orig_posangle": 1.683
     },
     {
         "img_num": 442,
-        "illumination_degree": 197.92
+        "illumination_degree": 197.92,
+        "orig_posangle": 1.434
     },
     {
         "img_num": 443,
-        "illumination_degree": 198.44
+        "illumination_degree": 198.44,
+        "orig_posangle": 1.185
     },
     {
         "img_num": 444,
-        "illumination_degree": 198.96
+        "illumination_degree": 198.96,
+        "orig_posangle": 0.935
     },
     {
         "img_num": 445,
-        "illumination_degree": 199.49
+        "illumination_degree": 199.49,
+        "orig_posangle": 0.685
     },
     {
         "img_num": 446,
-        "illumination_degree": 200.03
+        "illumination_degree": 200.03,
+        "orig_posangle": 0.434
     },
     {
         "img_num": 447,
-        "illumination_degree": 200.57
+        "illumination_degree": 200.57,
+        "orig_posangle": 0.183
     },
     {
         "img_num": 448,
-        "illumination_degree": 201.12
+        "illumination_degree": 201.12,
+        "orig_posangle": 359.932
     },
     {
         "img_num": 449,
-        "illumination_degree": 201.68
+        "illumination_degree": 201.68,
+        "orig_posangle": 359.68
     },
     {
         "img_num": 450,
-        "illumination_degree": 202.24
+        "illumination_degree": 202.24,
+        "orig_posangle": 359.429
     },
     {
         "img_num": 451,
-        "illumination_degree": 202.8
+        "illumination_degree": 202.8,
+        "orig_posangle": 359.177
     },
     {
         "img_num": 452,
-        "illumination_degree": 203.37
+        "illumination_degree": 203.37,
+        "orig_posangle": 358.924
     },
     {
         "img_num": 453,
-        "illumination_degree": 203.97
+        "illumination_degree": 203.97,
+        "orig_posangle": 358.672
     },
     {
         "img_num": 454,
-        "illumination_degree": 204.54
+        "illumination_degree": 204.54,
+        "orig_posangle": 358.42
     },
     {
         "img_num": 455,
-        "illumination_degree": 205.14
+        "illumination_degree": 205.14,
+        "orig_posangle": 358.167
     },
     {
         "img_num": 456,
-        "illumination_degree": 205.75
+        "illumination_degree": 205.75,
+        "orig_posangle": 357.915
     },
     {
         "img_num": 457,
-        "illumination_degree": 206.34
+        "illumination_degree": 206.34,
+        "orig_posangle": 357.663
     },
     {
         "img_num": 458,
-        "illumination_degree": 206.96
+        "illumination_degree": 206.96,
+        "orig_posangle": 357.411
     },
     {
         "img_num": 459,
-        "illumination_degree": 207.59
+        "illumination_degree": 207.59,
+        "orig_posangle": 357.159
     },
     {
         "img_num": 460,
-        "illumination_degree": 208.2
+        "illumination_degree": 208.2,
+        "orig_posangle": 356.907
     },
     {
         "img_num": 461,
-        "illumination_degree": 208.83
+        "illumination_degree": 208.83,
+        "orig_posangle": 356.656
     },
     {
         "img_num": 462,
-        "illumination_degree": 209.48
+        "illumination_degree": 209.48,
+        "orig_posangle": 356.405
     },
     {
         "img_num": 463,
-        "illumination_degree": 210.11
+        "illumination_degree": 210.11,
+        "orig_posangle": 356.154
     },
     {
         "img_num": 464,
-        "illumination_degree": 210.76
+        "illumination_degree": 210.76,
+        "orig_posangle": 355.904
     },
     {
         "img_num": 465,
-        "illumination_degree": 211.4
+        "illumination_degree": 211.4,
+        "orig_posangle": 355.654
     },
     {
         "img_num": 466,
-        "illumination_degree": 212.07
+        "illumination_degree": 212.07,
+        "orig_posangle": 355.405
     },
     {
         "img_num": 467,
-        "illumination_degree": 212.74
+        "illumination_degree": 212.74,
+        "orig_posangle": 355.156
     },
     {
         "img_num": 468,
-        "illumination_degree": 213.4
+        "illumination_degree": 213.4,
+        "orig_posangle": 354.908
     },
     {
         "img_num": 469,
-        "illumination_degree": 214.09
+        "illumination_degree": 214.09,
+        "orig_posangle": 354.66
     },
     {
         "img_num": 470,
-        "illumination_degree": 214.75
+        "illumination_degree": 214.75,
+        "orig_posangle": 354.414
     },
     {
         "img_num": 471,
-        "illumination_degree": 215.44
+        "illumination_degree": 215.44,
+        "orig_posangle": 354.168
     },
     {
         "img_num": 472,
-        "illumination_degree": 216.14
+        "illumination_degree": 216.14,
+        "orig_posangle": 353.922
     },
     {
         "img_num": 473,
-        "illumination_degree": 216.82
+        "illumination_degree": 216.82,
+        "orig_posangle": 353.678
     },
     {
         "img_num": 474,
-        "illumination_degree": 217.52
+        "illumination_degree": 217.52,
+        "orig_posangle": 353.434
     },
     {
         "img_num": 475,
-        "illumination_degree": 218.23
+        "illumination_degree": 218.23,
+        "orig_posangle": 353.192
     },
     {
         "img_num": 476,
-        "illumination_degree": 218.95
+        "illumination_degree": 218.95,
+        "orig_posangle": 352.95
     },
     {
         "img_num": 477,
-        "illumination_degree": 219.67
+        "illumination_degree": 219.67,
+        "orig_posangle": 352.71
     },
     {
         "img_num": 478,
-        "illumination_degree": 220.39
+        "illumination_degree": 220.39,
+        "orig_posangle": 352.47
     },
     {
         "img_num": 479,
-        "illumination_degree": 221.11
+        "illumination_degree": 221.11,
+        "orig_posangle": 352.231
     },
     {
         "img_num": 480,
-        "illumination_degree": 221.83
+        "illumination_degree": 221.83,
+        "orig_posangle": 351.994
     },
     {
         "img_num": 481,
-        "illumination_degree": 222.56
+        "illumination_degree": 222.56,
+        "orig_posangle": 351.758
     },
     {
         "img_num": 482,
-        "illumination_degree": 223.3
+        "illumination_degree": 223.3,
+        "orig_posangle": 351.523
     },
     {
         "img_num": 483,
-        "illumination_degree": 224.04
+        "illumination_degree": 224.04,
+        "orig_posangle": 351.289
     },
     {
         "img_num": 484,
-        "illumination_degree": 224.8
+        "illumination_degree": 224.8,
+        "orig_posangle": 351.057
     },
     {
         "img_num": 485,
-        "illumination_degree": 225.55
+        "illumination_degree": 225.55,
+        "orig_posangle": 350.826
     },
     {
         "img_num": 486,
-        "illumination_degree": 226.29
+        "illumination_degree": 226.29,
+        "orig_posangle": 350.596
     },
     {
         "img_num": 487,
-        "illumination_degree": 227.07
+        "illumination_degree": 227.07,
+        "orig_posangle": 350.368
     },
     {
         "img_num": 488,
-        "illumination_degree": 227.82
+        "illumination_degree": 227.82,
+        "orig_posangle": 350.141
     },
     {
         "img_num": 489,
-        "illumination_degree": 228.6
+        "illumination_degree": 228.6,
+        "orig_posangle": 349.916
     },
     {
         "img_num": 490,
-        "illumination_degree": 229.37
+        "illumination_degree": 229.37,
+        "orig_posangle": 349.692
     },
     {
         "img_num": 491,
-        "illumination_degree": 230.14
+        "illumination_degree": 230.14,
+        "orig_posangle": 349.47
     },
     {
         "img_num": 492,
-        "illumination_degree": 230.92
+        "illumination_degree": 230.92,
+        "orig_posangle": 349.25
     },
     {
         "img_num": 493,
-        "illumination_degree": 231.69
+        "illumination_degree": 231.69,
+        "orig_posangle": 349.031
     },
     {
         "img_num": 494,
-        "illumination_degree": 232.48
+        "illumination_degree": 232.48,
+        "orig_posangle": 348.813
     },
     {
         "img_num": 495,
-        "illumination_degree": 233.28
+        "illumination_degree": 233.28,
+        "orig_posangle": 348.598
     },
     {
         "img_num": 496,
-        "illumination_degree": 234.07
+        "illumination_degree": 234.07,
+        "orig_posangle": 348.384
     },
     {
         "img_num": 497,
-        "illumination_degree": 234.86
+        "illumination_degree": 234.86,
+        "orig_posangle": 348.172
     },
     {
         "img_num": 498,
-        "illumination_degree": 235.67
+        "illumination_degree": 235.67,
+        "orig_posangle": 347.961
     },
     {
         "img_num": 499,
-        "illumination_degree": 236.46
+        "illumination_degree": 236.46,
+        "orig_posangle": 347.753
     },
     {
         "img_num": 500,
-        "illumination_degree": 237.27
+        "illumination_degree": 237.27,
+        "orig_posangle": 347.546
     },
     {
         "img_num": 501,
-        "illumination_degree": 238.08
+        "illumination_degree": 238.08,
+        "orig_posangle": 347.341
     },
     {
         "img_num": 502,
-        "illumination_degree": 238.89
+        "illumination_degree": 238.89,
+        "orig_posangle": 347.138
     },
     {
         "img_num": 503,
-        "illumination_degree": 239.7
+        "illumination_degree": 239.7,
+        "orig_posangle": 346.937
     },
     {
         "img_num": 504,
-        "illumination_degree": 240.53
+        "illumination_degree": 240.53,
+        "orig_posangle": 346.738
     },
     {
         "img_num": 505,
-        "illumination_degree": 241.34
+        "illumination_degree": 241.34,
+        "orig_posangle": 346.541
     },
     {
         "img_num": 506,
-        "illumination_degree": 242.17
+        "illumination_degree": 242.17,
+        "orig_posangle": 346.346
     },
     {
         "img_num": 507,
-        "illumination_degree": 243.0
+        "illumination_degree": 243.0,
+        "orig_posangle": 346.153
     },
     {
         "img_num": 508,
-        "illumination_degree": 243.83
+        "illumination_degree": 243.83,
+        "orig_posangle": 345.962
     },
     {
         "img_num": 509,
-        "illumination_degree": 244.65
+        "illumination_degree": 244.65,
+        "orig_posangle": 345.772
     },
     {
         "img_num": 510,
-        "illumination_degree": 245.48
+        "illumination_degree": 245.48,
+        "orig_posangle": 345.585
     },
     {
         "img_num": 511,
-        "illumination_degree": 246.33
+        "illumination_degree": 246.33,
+        "orig_posangle": 345.401
     },
     {
         "img_num": 512,
-        "illumination_degree": 247.16
+        "illumination_degree": 247.16,
+        "orig_posangle": 345.218
     },
     {
         "img_num": 513,
-        "illumination_degree": 248.0
+        "illumination_degree": 248.0,
+        "orig_posangle": 345.037
     },
     {
         "img_num": 514,
-        "illumination_degree": 248.83
+        "illumination_degree": 248.83,
+        "orig_posangle": 344.858
     },
     {
         "img_num": 515,
-        "illumination_degree": 249.68
+        "illumination_degree": 249.68,
+        "orig_posangle": 344.682
     },
     {
         "img_num": 516,
-        "illumination_degree": 250.52
+        "illumination_degree": 250.52,
+        "orig_posangle": 344.508
     },
     {
         "img_num": 517,
-        "illumination_degree": 251.37
+        "illumination_degree": 251.37,
+        "orig_posangle": 344.336
     },
     {
         "img_num": 518,
-        "illumination_degree": 252.22
+        "illumination_degree": 252.22,
+        "orig_posangle": 344.166
     },
     {
         "img_num": 519,
-        "illumination_degree": 253.08
+        "illumination_degree": 253.08,
+        "orig_posangle": 343.998
     },
     {
         "img_num": 520,
-        "illumination_degree": 253.93
+        "illumination_degree": 253.93,
+        "orig_posangle": 343.833
     },
     {
         "img_num": 521,
-        "illumination_degree": 254.77
+        "illumination_degree": 254.77,
+        "orig_posangle": 343.669
     },
     {
         "img_num": 522,
-        "illumination_degree": 255.64
+        "illumination_degree": 255.64,
+        "orig_posangle": 343.508
     },
     {
         "img_num": 523,
-        "illumination_degree": 256.48
+        "illumination_degree": 256.48,
+        "orig_posangle": 343.35
     },
     {
         "img_num": 524,
-        "illumination_degree": 257.35
+        "illumination_degree": 257.35,
+        "orig_posangle": 343.193
     },
     {
         "img_num": 525,
-        "illumination_degree": 258.19
+        "illumination_degree": 258.19,
+        "orig_posangle": 343.039
     },
     {
         "img_num": 526,
-        "illumination_degree": 259.06
+        "illumination_degree": 259.06,
+        "orig_posangle": 342.887
     },
     {
         "img_num": 527,
-        "illumination_degree": 259.92
+        "illumination_degree": 259.92,
+        "orig_posangle": 342.737
     },
     {
         "img_num": 528,
-        "illumination_degree": 260.78
+        "illumination_degree": 260.78,
+        "orig_posangle": 342.59
     },
     {
         "img_num": 529,
-        "illumination_degree": 261.63
+        "illumination_degree": 261.63,
+        "orig_posangle": 342.444
     },
     {
         "img_num": 530,
-        "illumination_degree": 262.49
+        "illumination_degree": 262.49,
+        "orig_posangle": 342.302
     },
     {
         "img_num": 531,
-        "illumination_degree": 263.36
+        "illumination_degree": 263.36,
+        "orig_posangle": 342.161
     },
     {
         "img_num": 532,
-        "illumination_degree": 264.22
+        "illumination_degree": 264.22,
+        "orig_posangle": 342.023
     },
     {
         "img_num": 533,
-        "illumination_degree": 265.09
+        "illumination_degree": 265.09,
+        "orig_posangle": 341.887
     },
     {
         "img_num": 534,
-        "illumination_degree": 265.95
+        "illumination_degree": 265.95,
+        "orig_posangle": 341.753
     },
     {
         "img_num": 535,
-        "illumination_degree": 266.82
+        "illumination_degree": 266.82,
+        "orig_posangle": 341.621
     },
     {
         "img_num": 536,
-        "illumination_degree": 267.68
+        "illumination_degree": 267.68,
+        "orig_posangle": 341.492
     },
     {
         "img_num": 537,
-        "illumination_degree": 268.54
+        "illumination_degree": 268.54,
+        "orig_posangle": 341.365
     },
     {
         "img_num": 538,
-        "illumination_degree": 269.41
+        "illumination_degree": 269.41,
+        "orig_posangle": 341.241
     },
     {
         "img_num": 539,
-        "illumination_degree": 270.27
+        "illumination_degree": 270.27,
+        "orig_posangle": 341.119
     },
     {
         "img_num": 540,
-        "illumination_degree": 271.14
+        "illumination_degree": 271.14,
+        "orig_posangle": 340.999
     },
     {
         "img_num": 541,
-        "illumination_degree": 272.0
+        "illumination_degree": 272.0,
+        "orig_posangle": 340.881
     },
     {
         "img_num": 542,
-        "illumination_degree": 272.86
+        "illumination_degree": 272.86,
+        "orig_posangle": 340.766
     },
     {
         "img_num": 543,
-        "illumination_degree": 273.73
+        "illumination_degree": 273.73,
+        "orig_posangle": 340.653
     },
     {
         "img_num": 544,
-        "illumination_degree": 274.59
+        "illumination_degree": 274.59,
+        "orig_posangle": 340.542
     },
     {
         "img_num": 545,
-        "illumination_degree": 275.46
+        "illumination_degree": 275.46,
+        "orig_posangle": 340.433
     },
     {
         "img_num": 546,
-        "illumination_degree": 276.32
+        "illumination_degree": 276.32,
+        "orig_posangle": 340.327
     },
     {
         "img_num": 547,
-        "illumination_degree": 277.17
+        "illumination_degree": 277.17,
+        "orig_posangle": 340.223
     },
     {
         "img_num": 548,
-        "illumination_degree": 278.03
+        "illumination_degree": 278.03,
+        "orig_posangle": 340.121
     },
     {
         "img_num": 549,
-        "illumination_degree": 278.89
+        "illumination_degree": 278.89,
+        "orig_posangle": 340.022
     },
     {
         "img_num": 550,
-        "illumination_degree": 279.76
+        "illumination_degree": 279.76,
+        "orig_posangle": 339.925
     },
     {
         "img_num": 551,
-        "illumination_degree": 280.6
+        "illumination_degree": 280.6,
+        "orig_posangle": 339.83
     },
     {
         "img_num": 552,
-        "illumination_degree": 281.47
+        "illumination_degree": 281.47,
+        "orig_posangle": 339.737
     },
     {
         "img_num": 553,
-        "illumination_degree": 282.32
+        "illumination_degree": 282.32,
+        "orig_posangle": 339.647
     },
     {
         "img_num": 554,
-        "illumination_degree": 283.16
+        "illumination_degree": 283.16,
+        "orig_posangle": 339.559
     },
     {
         "img_num": 555,
-        "illumination_degree": 284.03
+        "illumination_degree": 284.03,
+        "orig_posangle": 339.473
     },
     {
         "img_num": 556,
-        "illumination_degree": 284.87
+        "illumination_degree": 284.87,
+        "orig_posangle": 339.389
     },
     {
         "img_num": 557,
-        "illumination_degree": 285.72
+        "illumination_degree": 285.72,
+        "orig_posangle": 339.308
     },
     {
         "img_num": 558,
-        "illumination_degree": 286.56
+        "illumination_degree": 286.56,
+        "orig_posangle": 339.228
     },
     {
         "img_num": 559,
-        "illumination_degree": 287.41
+        "illumination_degree": 287.41,
+        "orig_posangle": 339.151
     },
     {
         "img_num": 560,
-        "illumination_degree": 288.26
+        "illumination_degree": 288.26,
+        "orig_posangle": 339.077
     },
     {
         "img_num": 561,
-        "illumination_degree": 289.1
+        "illumination_degree": 289.1,
+        "orig_posangle": 339.004
     },
     {
         "img_num": 562,
-        "illumination_degree": 289.93
+        "illumination_degree": 289.93,
+        "orig_posangle": 338.933
     },
     {
         "img_num": 563,
-        "illumination_degree": 290.78
+        "illumination_degree": 290.78,
+        "orig_posangle": 338.865
     },
     {
         "img_num": 564,
-        "illumination_degree": 291.6
+        "illumination_degree": 291.6,
+        "orig_posangle": 338.799
     },
     {
         "img_num": 565,
-        "illumination_degree": 292.45
+        "illumination_degree": 292.45,
+        "orig_posangle": 338.735
     },
     {
         "img_num": 566,
-        "illumination_degree": 293.28
+        "illumination_degree": 293.28,
+        "orig_posangle": 338.673
     },
     {
         "img_num": 567,
-        "illumination_degree": 294.11
+        "illumination_degree": 294.11,
+        "orig_posangle": 338.614
     },
     {
         "img_num": 568,
-        "illumination_degree": 294.93
+        "illumination_degree": 294.93,
+        "orig_posangle": 338.556
     },
     {
         "img_num": 569,
-        "illumination_degree": 295.76
+        "illumination_degree": 295.76,
+        "orig_posangle": 338.501
     },
     {
         "img_num": 570,
-        "illumination_degree": 296.57
+        "illumination_degree": 296.57,
+        "orig_posangle": 338.447
     },
     {
         "img_num": 571,
-        "illumination_degree": 297.4
+        "illumination_degree": 297.4,
+        "orig_posangle": 338.396
     },
     {
         "img_num": 572,
-        "illumination_degree": 298.21
+        "illumination_degree": 298.21,
+        "orig_posangle": 338.347
     },
     {
         "img_num": 573,
-        "illumination_degree": 299.02
+        "illumination_degree": 299.02,
+        "orig_posangle": 338.3
     },
     {
         "img_num": 574,
-        "illumination_degree": 299.83
+        "illumination_degree": 299.83,
+        "orig_posangle": 338.255
     },
     {
         "img_num": 575,
-        "illumination_degree": 300.64
+        "illumination_degree": 300.64,
+        "orig_posangle": 338.213
     },
     {
         "img_num": 576,
-        "illumination_degree": 301.45
+        "illumination_degree": 301.45,
+        "orig_posangle": 338.172
     },
     {
         "img_num": 577,
-        "illumination_degree": 302.24
+        "illumination_degree": 302.24,
+        "orig_posangle": 338.133
     },
     {
         "img_num": 578,
-        "illumination_degree": 303.05
+        "illumination_degree": 303.05,
+        "orig_posangle": 338.097
     },
     {
         "img_num": 579,
-        "illumination_degree": 303.85
+        "illumination_degree": 303.85,
+        "orig_posangle": 338.062
     },
     {
         "img_num": 580,
-        "illumination_degree": 304.64
+        "illumination_degree": 304.64,
+        "orig_posangle": 338.03
     },
     {
         "img_num": 581,
-        "illumination_degree": 305.41
+        "illumination_degree": 305.41,
+        "orig_posangle": 337.999
     },
     {
         "img_num": 582,
-        "illumination_degree": 306.2
+        "illumination_degree": 306.2,
+        "orig_posangle": 337.971
     },
     {
         "img_num": 583,
-        "illumination_degree": 306.98
+        "illumination_degree": 306.98,
+        "orig_posangle": 337.944
     },
     {
         "img_num": 584,
-        "illumination_degree": 307.77
+        "illumination_degree": 307.77,
+        "orig_posangle": 337.92
     },
     {
         "img_num": 585,
-        "illumination_degree": 308.54
+        "illumination_degree": 308.54,
+        "orig_posangle": 337.897
     },
     {
         "img_num": 586,
-        "illumination_degree": 309.3
+        "illumination_degree": 309.3,
+        "orig_posangle": 337.877
     },
     {
         "img_num": 587,
-        "illumination_degree": 310.08
+        "illumination_degree": 310.08,
+        "orig_posangle": 337.858
     },
     {
         "img_num": 588,
-        "illumination_degree": 310.83
+        "illumination_degree": 310.83,
+        "orig_posangle": 337.842
     },
     {
         "img_num": 589,
-        "illumination_degree": 311.61
+        "illumination_degree": 311.61,
+        "orig_posangle": 337.827
     },
     {
         "img_num": 590,
-        "illumination_degree": 312.34
+        "illumination_degree": 312.34,
+        "orig_posangle": 337.814
     },
     {
         "img_num": 591,
-        "illumination_degree": 313.1
+        "illumination_degree": 313.1,
+        "orig_posangle": 337.804
     },
     {
         "img_num": 592,
-        "illumination_degree": 313.86
+        "illumination_degree": 313.86,
+        "orig_posangle": 337.795
     },
     {
         "img_num": 593,
-        "illumination_degree": 314.59
+        "illumination_degree": 314.59,
+        "orig_posangle": 337.788
     },
     {
         "img_num": 594,
-        "illumination_degree": 315.33
+        "illumination_degree": 315.33,
+        "orig_posangle": 337.783
     },
     {
         "img_num": 595,
-        "illumination_degree": 316.07
+        "illumination_degree": 316.07,
+        "orig_posangle": 337.78
     },
     {
         "img_num": 596,
-        "illumination_degree": 316.79
+        "illumination_degree": 316.79,
+        "orig_posangle": 337.779
     },
     {
         "img_num": 597,
-        "illumination_degree": 317.51
+        "illumination_degree": 317.51,
+        "orig_posangle": 337.78
     },
     {
         "img_num": 598,
-        "illumination_degree": 318.23
+        "illumination_degree": 318.23,
+        "orig_posangle": 337.783
     },
     {
         "img_num": 599,
-        "illumination_degree": 318.95
+        "illumination_degree": 318.95,
+        "orig_posangle": 337.787
     },
     {
         "img_num": 600,
-        "illumination_degree": 319.67
+        "illumination_degree": 319.67,
+        "orig_posangle": 337.794
     },
     {
         "img_num": 601,
-        "illumination_degree": 320.37
+        "illumination_degree": 320.37,
+        "orig_posangle": 337.802
     },
     {
         "img_num": 602,
-        "illumination_degree": 321.07
+        "illumination_degree": 321.07,
+        "orig_posangle": 337.812
     },
     {
         "img_num": 603,
-        "illumination_degree": 321.78
+        "illumination_degree": 321.78,
+        "orig_posangle": 337.824
     },
     {
         "img_num": 604,
-        "illumination_degree": 322.46
+        "illumination_degree": 322.46,
+        "orig_posangle": 337.838
     },
     {
         "img_num": 605,
-        "illumination_degree": 323.14
+        "illumination_degree": 323.14,
+        "orig_posangle": 337.854
     },
     {
         "img_num": 606,
-        "illumination_degree": 323.83
+        "illumination_degree": 323.83,
+        "orig_posangle": 337.871
     },
     {
         "img_num": 607,
-        "illumination_degree": 324.51
+        "illumination_degree": 324.51,
+        "orig_posangle": 337.891
     },
     {
         "img_num": 608,
-        "illumination_degree": 325.18
+        "illumination_degree": 325.18,
+        "orig_posangle": 337.912
     },
     {
         "img_num": 609,
-        "illumination_degree": 325.85
+        "illumination_degree": 325.85,
+        "orig_posangle": 337.935
     },
     {
         "img_num": 610,
-        "illumination_degree": 326.51
+        "illumination_degree": 326.51,
+        "orig_posangle": 337.96
     },
     {
         "img_num": 611,
-        "illumination_degree": 327.16
+        "illumination_degree": 327.16,
+        "orig_posangle": 337.987
     },
     {
         "img_num": 612,
-        "illumination_degree": 327.83
+        "illumination_degree": 327.83,
+        "orig_posangle": 338.015
     },
     {
         "img_num": 613,
-        "illumination_degree": 328.46
+        "illumination_degree": 328.46,
+        "orig_posangle": 338.045
     },
     {
         "img_num": 614,
-        "illumination_degree": 329.1
+        "illumination_degree": 329.1,
+        "orig_posangle": 338.077
     },
     {
         "img_num": 615,
-        "illumination_degree": 329.73
+        "illumination_degree": 329.73,
+        "orig_posangle": 338.111
     },
     {
         "img_num": 616,
-        "illumination_degree": 330.36
+        "illumination_degree": 330.36,
+        "orig_posangle": 338.147
     },
     {
         "img_num": 617,
-        "illumination_degree": 330.99
+        "illumination_degree": 330.99,
+        "orig_posangle": 338.184
     },
     {
         "img_num": 618,
-        "illumination_degree": 331.61
+        "illumination_degree": 331.61,
+        "orig_posangle": 338.223
     },
     {
         "img_num": 619,
-        "illumination_degree": 332.22
+        "illumination_degree": 332.22,
+        "orig_posangle": 338.264
     },
     {
         "img_num": 620,
-        "illumination_degree": 332.83
+        "illumination_degree": 332.83,
+        "orig_posangle": 338.307
     },
     {
         "img_num": 621,
-        "illumination_degree": 333.42
+        "illumination_degree": 333.42,
+        "orig_posangle": 338.351
     },
     {
         "img_num": 622,
-        "illumination_degree": 334.02
+        "illumination_degree": 334.02,
+        "orig_posangle": 338.397
     },
     {
         "img_num": 623,
-        "illumination_degree": 334.61
+        "illumination_degree": 334.61,
+        "orig_posangle": 338.445
     },
     {
         "img_num": 624,
-        "illumination_degree": 335.19
+        "illumination_degree": 335.19,
+        "orig_posangle": 338.495
     },
     {
         "img_num": 625,
-        "illumination_degree": 335.76
+        "illumination_degree": 335.76,
+        "orig_posangle": 338.546
     },
     {
         "img_num": 626,
-        "illumination_degree": 336.34
+        "illumination_degree": 336.34,
+        "orig_posangle": 338.599
     },
     {
         "img_num": 627,
-        "illumination_degree": 336.9
+        "illumination_degree": 336.9,
+        "orig_posangle": 338.654
     },
     {
         "img_num": 628,
-        "illumination_degree": 337.46
+        "illumination_degree": 337.46,
+        "orig_posangle": 338.71
     },
     {
         "img_num": 629,
-        "illumination_degree": 338.01
+        "illumination_degree": 338.01,
+        "orig_posangle": 338.768
     },
     {
         "img_num": 630,
-        "illumination_degree": 338.56
+        "illumination_degree": 338.56,
+        "orig_posangle": 338.828
     },
     {
         "img_num": 631,
-        "illumination_degree": 339.1
+        "illumination_degree": 339.1,
+        "orig_posangle": 338.89
     },
     {
         "img_num": 632,
-        "illumination_degree": 339.64
+        "illumination_degree": 339.64,
+        "orig_posangle": 338.953
     },
     {
         "img_num": 633,
-        "illumination_degree": 340.16
+        "illumination_degree": 340.16,
+        "orig_posangle": 339.018
     },
     {
         "img_num": 634,
-        "illumination_degree": 340.68
+        "illumination_degree": 340.68,
+        "orig_posangle": 339.085
     },
     {
         "img_num": 635,
-        "illumination_degree": 341.2
+        "illumination_degree": 341.2,
+        "orig_posangle": 339.154
     },
     {
         "img_num": 636,
-        "illumination_degree": 341.71
+        "illumination_degree": 341.71,
+        "orig_posangle": 339.224
     },
     {
         "img_num": 637,
-        "illumination_degree": 342.21
+        "illumination_degree": 342.21,
+        "orig_posangle": 339.296
     },
     {
         "img_num": 638,
-        "illumination_degree": 342.71
+        "illumination_degree": 342.71,
+        "orig_posangle": 339.369
     },
     {
         "img_num": 639,
-        "illumination_degree": 343.2
+        "illumination_degree": 343.2,
+        "orig_posangle": 339.444
     },
     {
         "img_num": 640,
-        "illumination_degree": 343.69
+        "illumination_degree": 343.69,
+        "orig_posangle": 339.521
     },
     {
         "img_num": 641,
-        "illumination_degree": 344.15
+        "illumination_degree": 344.15,
+        "orig_posangle": 339.6
     },
     {
         "img_num": 642,
-        "illumination_degree": 344.62
+        "illumination_degree": 344.62,
+        "orig_posangle": 339.68
     },
     {
         "img_num": 643,
-        "illumination_degree": 345.09
+        "illumination_degree": 345.09,
+        "orig_posangle": 339.762
     },
     {
         "img_num": 644,
-        "illumination_degree": 345.54
+        "illumination_degree": 345.54,
+        "orig_posangle": 339.846
     },
     {
         "img_num": 645,
-        "illumination_degree": 345.99
+        "illumination_degree": 345.99,
+        "orig_posangle": 339.931
     },
     {
         "img_num": 646,
-        "illumination_degree": 346.44
+        "illumination_degree": 346.44,
+        "orig_posangle": 340.018
     },
     {
         "img_num": 647,
-        "illumination_degree": 346.87
+        "illumination_degree": 346.87,
+        "orig_posangle": 340.106
     },
     {
         "img_num": 648,
-        "illumination_degree": 347.3
+        "illumination_degree": 347.3,
+        "orig_posangle": 340.196
     },
     {
         "img_num": 649,
-        "illumination_degree": 347.72
+        "illumination_degree": 347.72,
+        "orig_posangle": 340.288
     },
     {
         "img_num": 650,
-        "illumination_degree": 348.13
+        "illumination_degree": 348.13,
+        "orig_posangle": 340.382
     },
     {
         "img_num": 651,
-        "illumination_degree": 348.55
+        "illumination_degree": 348.55,
+        "orig_posangle": 340.477
     },
     {
         "img_num": 652,
-        "illumination_degree": 348.94
+        "illumination_degree": 348.94,
+        "orig_posangle": 340.574
     },
     {
         "img_num": 653,
-        "illumination_degree": 349.34
+        "illumination_degree": 349.34,
+        "orig_posangle": 340.672
     },
     {
         "img_num": 654,
-        "illumination_degree": 349.72
+        "illumination_degree": 349.72,
+        "orig_posangle": 340.772
     },
     {
         "img_num": 655,
-        "illumination_degree": 350.09
+        "illumination_degree": 350.09,
+        "orig_posangle": 340.874
     },
     {
         "img_num": 656,
-        "illumination_degree": 350.47
+        "illumination_degree": 350.47,
+        "orig_posangle": 340.977
     },
     {
         "img_num": 657,
-        "illumination_degree": 350.85
+        "illumination_degree": 350.85,
+        "orig_posangle": 341.082
     },
     {
         "img_num": 658,
-        "illumination_degree": 351.19
+        "illumination_degree": 351.19,
+        "orig_posangle": 341.189
     },
     {
         "img_num": 659,
-        "illumination_degree": 351.55
+        "illumination_degree": 351.55,
+        "orig_posangle": 341.297
     },
     {
         "img_num": 660,
-        "illumination_degree": 351.89
+        "illumination_degree": 351.89,
+        "orig_posangle": 341.407
     },
     {
         "img_num": 661,
-        "illumination_degree": 352.24
+        "illumination_degree": 352.24,
+        "orig_posangle": 341.519
     },
     {
         "img_num": 662,
-        "illumination_degree": 352.56
+        "illumination_degree": 352.56,
+        "orig_posangle": 341.632
     },
     {
         "img_num": 663,
-        "illumination_degree": 352.89
+        "illumination_degree": 352.89,
+        "orig_posangle": 341.746
     },
     {
         "img_num": 664,
-        "illumination_degree": 353.21
+        "illumination_degree": 353.21,
+        "orig_posangle": 341.863
     },
     {
         "img_num": 665,
-        "illumination_degree": 353.52
+        "illumination_degree": 353.52,
+        "orig_posangle": 341.981
     },
     {
         "img_num": 666,
-        "illumination_degree": 353.82
+        "illumination_degree": 353.82,
+        "orig_posangle": 342.1
     },
     {
         "img_num": 667,
-        "illumination_degree": 354.11
+        "illumination_degree": 354.11,
+        "orig_posangle": 342.221
     },
     {
         "img_num": 668,
-        "illumination_degree": 354.4
+        "illumination_degree": 354.4,
+        "orig_posangle": 342.344
     },
     {
         "img_num": 669,
-        "illumination_degree": 354.69
+        "illumination_degree": 354.69,
+        "orig_posangle": 342.468
     },
     {
         "img_num": 670,
-        "illumination_degree": 354.96
+        "illumination_degree": 354.96,
+        "orig_posangle": 342.594
     },
     {
         "img_num": 671,
-        "illumination_degree": 355.23
+        "illumination_degree": 355.23,
+        "orig_posangle": 342.722
     },
     {
         "img_num": 672,
-        "illumination_degree": 355.48
+        "illumination_degree": 355.48,
+        "orig_posangle": 342.851
     },
     {
         "img_num": 673,
-        "illumination_degree": 355.73
+        "illumination_degree": 355.73,
+        "orig_posangle": 342.981
     },
     {
         "img_num": 674,
-        "illumination_degree": 355.98
+        "illumination_degree": 355.98,
+        "orig_posangle": 343.114
     },
     {
         "img_num": 675,
-        "illumination_degree": 356.22
+        "illumination_degree": 356.22,
+        "orig_posangle": 343.247
     },
     {
         "img_num": 676,
-        "illumination_degree": 356.45
+        "illumination_degree": 356.45,
+        "orig_posangle": 343.383
     },
     {
         "img_num": 677,
-        "illumination_degree": 356.67
+        "illumination_degree": 356.67,
+        "orig_posangle": 343.52
     },
     {
         "img_num": 678,
-        "illumination_degree": 356.88
+        "illumination_degree": 356.88,
+        "orig_posangle": 343.658
     },
     {
         "img_num": 679,
-        "illumination_degree": 357.1
+        "illumination_degree": 357.1,
+        "orig_posangle": 343.798
     },
     {
         "img_num": 680,
-        "illumination_degree": 357.3
+        "illumination_degree": 357.3,
+        "orig_posangle": 343.94
     },
     {
         "img_num": 681,
-        "illumination_degree": 357.48
+        "illumination_degree": 357.48,
+        "orig_posangle": 344.083
     },
     {
         "img_num": 682,
-        "illumination_degree": 357.67
+        "illumination_degree": 357.67,
+        "orig_posangle": 344.228
     },
     {
         "img_num": 683,
-        "illumination_degree": 357.85
+        "illumination_degree": 357.85,
+        "orig_posangle": 344.374
     },
     {
         "img_num": 684,
-        "illumination_degree": 358.02
+        "illumination_degree": 358.02,
+        "orig_posangle": 344.521
     },
     {
         "img_num": 685,
-        "illumination_degree": 358.18
+        "illumination_degree": 358.18,
+        "orig_posangle": 344.671
     },
     {
         "img_num": 686,
-        "illumination_degree": 358.34
+        "illumination_degree": 358.34,
+        "orig_posangle": 344.821
     },
     {
         "img_num": 687,
-        "illumination_degree": 358.5
+        "illumination_degree": 358.5,
+        "orig_posangle": 344.973
     },
     {
         "img_num": 688,
-        "illumination_degree": 358.63
+        "illumination_degree": 358.63,
+        "orig_posangle": 345.127
     },
     {
         "img_num": 689,
-        "illumination_degree": 358.77
+        "illumination_degree": 358.77,
+        "orig_posangle": 345.282
     },
     {
         "img_num": 690,
-        "illumination_degree": 358.9
+        "illumination_degree": 358.9,
+        "orig_posangle": 345.439
     },
     {
         "img_num": 691,
-        "illumination_degree": 359.02
+        "illumination_degree": 359.02,
+        "orig_posangle": 345.597
     },
     {
         "img_num": 692,
-        "illumination_degree": 359.13
+        "illumination_degree": 359.13,
+        "orig_posangle": 345.757
     },
     {
         "img_num": 693,
-        "illumination_degree": 359.24
+        "illumination_degree": 359.24,
+        "orig_posangle": 345.918
     },
     {
         "img_num": 694,
-        "illumination_degree": 359.35
+        "illumination_degree": 359.35,
+        "orig_posangle": 346.08
     },
     {
         "img_num": 695,
-        "illumination_degree": 359.44
+        "illumination_degree": 359.44,
+        "orig_posangle": 346.244
     },
     {
         "img_num": 696,
-        "illumination_degree": 359.51
+        "illumination_degree": 359.51,
+        "orig_posangle": 346.409
     },
     {
         "img_num": 697,
-        "illumination_degree": 359.6
+        "illumination_degree": 359.6,
+        "orig_posangle": 346.576
     },
     {
         "img_num": 698,
-        "illumination_degree": 359.67
+        "illumination_degree": 359.67,
+        "orig_posangle": 346.744
     },
     {
         "img_num": 699,
-        "illumination_degree": 359.73
+        "illumination_degree": 359.73,
+        "orig_posangle": 346.914
     },
     {
         "img_num": 700,
-        "illumination_degree": 359.78
+        "illumination_degree": 359.78,
+        "orig_posangle": 347.085
     },
     {
         "img_num": 701,
-        "illumination_degree": 359.83
+        "illumination_degree": 359.83,
+        "orig_posangle": 347.257
     },
     {
         "img_num": 702,
-        "illumination_degree": 359.89
+        "illumination_degree": 359.89,
+        "orig_posangle": 347.431
     },
     {
         "img_num": 703,
-        "illumination_degree": 359.91
+        "illumination_degree": 359.91,
+        "orig_posangle": 347.606
     },
     {
         "img_num": 704,
-        "illumination_degree": 359.94
+        "illumination_degree": 359.94,
+        "orig_posangle": 347.782
     },
     {
         "img_num": 705,
-        "illumination_degree": 359.96
+        "illumination_degree": 359.96,
+        "orig_posangle": 347.96
     },
     {
         "img_num": 706,
-        "illumination_degree": 359.98
+        "illumination_degree": 359.98,
+        "orig_posangle": 348.139
     },
     {
         "img_num": 707,
-        "illumination_degree": 360.0
+        "illumination_degree": 360.0,
+        "orig_posangle": 348.319
     }
 ]
