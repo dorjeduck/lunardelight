@@ -5,6 +5,7 @@ from PIL import Image
 from datetime import datetime
 from skyfield.api import load, load_file,wgs84
 from skyfield.trigonometry import position_angle_of
+from skyfield.units import Angle
 from skyfield import almanac
 
 class LunarHelper:
@@ -39,6 +40,8 @@ class LunarHelper:
             s = l.observe(self.sun).apparent()
 
             posang = position_angle_of(m.altaz(), s.altaz())
+            if posang.degrees > 180:
+                posang = Angle(degrees = 360 - posang.degrees) 
         else:
             posang = False  # no rotation
 
