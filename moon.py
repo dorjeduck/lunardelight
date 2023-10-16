@@ -12,6 +12,8 @@ parser.add_argument('-d', '--date', help='Date in format YYYY-mm-dd')
 parser.add_argument('-t', '--time', help='Time in format HH:MM:SS - according to UTC)')
 parser.add_argument('-l', '--location', help='Location in format "lat,lon"')
 parser.add_argument('-o', '--output', help='Output file name without extension (no slashes...)')
+parser.add_argument('-p', '--posangle', action='store_true', help='Use orginal position angle (not accurate for locations)')
+
 
 args = parser.parse_args()
 
@@ -19,6 +21,8 @@ date = args.date
 time = args.time
 location = args.location
 output = args.output
+posangle = args.posangle
+
 
 # Check formats
 if date and not TAT.valid_date(date):
@@ -64,7 +68,7 @@ if not output:
 else:
     output_name = os.path.join(__dir__,'output',output)
 
-if location:
+if location and not posangle:
     lat, lon = map(float, location.split(','))
     latlon = (lat,lon)
 else:
@@ -80,17 +84,22 @@ latlon = (-22.9068,-43.1729) #Rio """
 
 moon_info = lunar_helper.get_moon_info(t,latlon)
 
+
 illumination_degrees = lunar_helper.get_illumination_degree(moon_info['illumination'],moon_info['phase'].degrees)
 
 nasa_approx = lunar_helper.get_nasa_approx(illumination_degrees)
+
+if posangle:
+    moon_info['position_angle'] = nasa_approx['orig_posangle']
 
 nasa_png = os.path.join(__dir__,'nasa','moon.{:03d}.png'.format(nasa_approx["img_num"]))
 
 if moon_info['position_angle']:
     output_name += "_{:.03f}_{:.03f}".format(*latlon)
-   
+    
     TAT.rotate_image(nasa_png,output_name + '.png',moon_info['position_angle'].degrees - 90 )
-    moon_info['latitude'],moon_info['longitude'] = latlon[0], latlon[1]
+    if latlon:
+        moon_info['latitude'],moon_info['longitude'] = latlon[0], latlon[1]
     moon_info['position_angle'] = round(moon_info['position_angle'].degrees,2)
 
 else:

@@ -119,7 +119,7 @@ for i, img_num in enumerate(range(2622, 3329)):
             f.write(response.content)
       
         process_image(local_tif_path,local_png_path,
-                  max_diameter/data[img_num]['diameter'],360-data[img_num]['posangle'],1080,1080)
+                  max_diameter/data[img_num]['diameter'],-data[img_num]['posangle'],1080,1080)
    
         os.remove(local_tif_path)
 
