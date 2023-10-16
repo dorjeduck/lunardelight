@@ -1,5 +1,6 @@
 from utils import LunarHelper, TAT
 from skyfield.api import load
+from skyfield.units import Angle
 from datetime import datetime
 
 import argparse
@@ -90,7 +91,7 @@ illumination_degrees = lunar_helper.get_illumination_degree(moon_info['illuminat
 nasa_approx = lunar_helper.get_nasa_approx(illumination_degrees)
 
 if posangle:
-    moon_info['position_angle'] = nasa_approx['orig_posangle']
+    moon_info['position_angle'] = Angle(degrees =nasa_approx['orig_posangle'])
 
 nasa_png = os.path.join(__dir__,'nasa','moon.{:03d}.png'.format(nasa_approx["img_num"]))
 
